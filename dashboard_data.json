@@ -5781,7 +5781,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-05"
+      "pub_date": "2026-09-04"
     },
     "https://www.washingtonpost.com/business/2026/09/04/diesel-hits-record-585-gallon-iran-war-drags/": {
       "summary": "",
@@ -6001,6 +6001,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-05"
+    },
+    "https://www.washingtonpost.com/world/2026/09/05/us-says-it-hit-3-iranian-oil-tankers-including-one-near-kharg-island/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-05"
     }
   },
   "last_digest_success": true,
@@ -6154,7 +6164,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-05T11:08:34.476917+00:00",
   "last_generated_date": "2026-09-05",
-  "last_generated_time": "2026-09-05T15:01:43.661686+00:00",
+  "last_generated_time": "2026-09-05T16:01:42.690064+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

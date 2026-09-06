@@ -6137,6 +6137,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-06"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-09-06/iran-us-trade-tit-for-tat-tanker-attacks-as-war-drags-on?srnd=live-events-v2": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
+    },
+    "https://www.reuters.com/business/energy/irans-government-raise-fuel-price-heavy-users-2026-09-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
     }
   },
   "last_digest_success": true,
@@ -6270,7 +6290,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-06T11:07:52.427623+00:00",
   "last_generated_date": "2026-09-06",
-  "last_generated_time": "2026-09-06T17:01:38.506539+00:00",
+  "last_generated_time": "2026-09-06T19:01:38.760965+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

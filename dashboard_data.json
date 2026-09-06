@@ -6064,6 +6064,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-06"
+    },
+    "https://www.cbc.ca/news/world/iran-claims-strike-us-ship-9.7334159": {
+      "summary": "Iran said Sunday it struck an unmanned U.S. vessel trying to enter the Strait of Hormuz, a claim that the U.S. military dismissed as a \"total lie.\"",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-06/iran-says-it-targeted-oil-tankers-in-response-to-us-strikes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
     }
   },
   "last_digest_success": true,
@@ -6197,7 +6217,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-06T11:07:52.427623+00:00",
   "last_generated_date": "2026-09-06",
-  "last_generated_time": "2026-09-06T09:01:24.349920+00:00",
+  "last_generated_time": "2026-09-06T10:01:27.297955+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

@@ -5930,7 +5930,7 @@
       "pub_date": "2026-09-05"
     },
     "https://www.nytimes.com/2026/09/05/us/politics/feehans-iran-war-family.html": {
-      "summary": "",
+      "summary": "First Lt. Tyler James Feehan, who was 25, had been deployed to an air base in Jordan when enemy missiles and drones lit up the sky. He is among the 18 Americans who have died since the war began.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6034,6 +6034,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-06"
+    },
+    "https://www.reuters.com/world/iran-war-live-us-iran-resume-attacks-trump-says-kharg-island-is-being-blown-2026-08-31/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-08-31"
     }
   },
   "last_digest_success": true,

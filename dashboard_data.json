@@ -6010,7 +6010,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-05"
+      "pub_date": "2026-09-06"
     },
     "https://www.ft.com/content/a8207f0e-9e1c-4d41-a3e0-a96587bad3a6?syn-25a6b1a6=1": {
       "summary": "SATS says US energy companies rushing machinery and materials to Middle East to repair damaged infrastructure",
@@ -6021,6 +6021,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-05"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-06/live-updates-907659": {
+      "summary": "Iran could face internal upheaval within months • CENTCOM strikes three Iranian tankers in retaliation for rocket strikes • Trump administration developing post-war Middle East strategy",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "Iran",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
     }
   },
   "last_digest_success": true,

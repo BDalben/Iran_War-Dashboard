@@ -6011,6 +6011,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-05"
+    },
+    "https://www.ft.com/content/a8207f0e-9e1c-4d41-a3e0-a96587bad3a6?syn-25a6b1a6=1": {
+      "summary": "SATS says US energy companies rushing machinery and materials to Middle East to repair damaged infrastructure",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-05"
     }
   },
   "last_digest_success": true,

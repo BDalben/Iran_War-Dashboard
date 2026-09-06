@@ -5781,7 +5781,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-05"
+      "pub_date": "2026-09-04"
     },
     "https://www.washingtonpost.com/business/2026/09/04/diesel-hits-record-585-gallon-iran-war-drags/": {
       "summary": "",
@@ -6164,7 +6164,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-05T11:08:34.476917+00:00",
   "last_generated_date": "2026-09-05",
-  "last_generated_time": "2026-09-05T21:01:38.089790+00:00",
+  "last_generated_time": "2026-09-05T22:01:54.777254+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -8877,6 +8877,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Americans hit with record-high Labor Day Weekend gasoline prices - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 05, 2026 · 14:44 BRT",
+          "pub_date": "2026-09-05",
+          "pub_ts": 1788630274,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Diesel hits record $5.85 a gallon as Iran war drags on - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObm1kdzd3TTBWUlFBR1RTXzV5NGl4eFhLNXN6MHlUdndZdVVpWGNOa2pZRTBMY3JiYWpmcWk5RHNTLUxqR2YzX09ZLUxDMlZZWlU4QTd4Mm9xcklJZW5QdXdKc0RDb0E0bjUwdHViXzd1M2JxbWpqQkFLQzBrQ3VYNkZTQTVzc3hIX0cxM2Vibnc0bWJvTExVeU9FWWE?oc=5",

@@ -5874,7 +5874,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-04"
+      "pub_date": "2026-09-05"
     },
     "https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html": {
       "summary": "",
@@ -6044,6 +6044,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-08-31"
+    },
+    "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
     }
   },
   "last_digest_success": true,

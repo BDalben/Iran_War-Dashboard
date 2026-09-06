@@ -6247,7 +6247,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-06T11:07:52.427623+00:00",
   "last_generated_date": "2026-09-06",
-  "last_generated_time": "2026-09-06T14:01:44.507107+00:00",
+  "last_generated_time": "2026-09-06T15:01:26.717972+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6276,6 +6276,20 @@
           "published": "Sep 06, 2026 · 10:26 BRT",
           "pub_date": "2026-09-06",
           "pub_ts": 1788701167,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Iran, US Trade Tit-for-Tat Tanker Attacks as War Drags On - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcEZuSTVpYzJLWlZYeVRCOTBBU0U2NmU4SHFPOFFleDJHOUc4UTc5MXFSNkVFN05jUDZOMVoxYzltN3NqLU9WWjAta2FrQUYyR25pLXNaSmE2UGFTMDZ0NFMwUkRzTzZjOTd2OWk1Uk5qMXhfeXZaM3pIaWVBdUpoVUFRM0hOZGlIN191RUlfVkFsbG5WSG5Tdm90U1BKMkdhblgyNnlDWWhvdElDVU1J?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 06, 2026 · 09:26 BRT",
+          "pub_date": "2026-09-06",
+          "pub_ts": 1788697602,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

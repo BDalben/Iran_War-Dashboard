@@ -6114,6 +6114,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-06"
+    },
+    "https://www.washingtonpost.com/world/2026/09/06/us-energy-secretary-chris-wright-says-iran-nuclear-deal-may-not-happen/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
+    },
+    "https://www.jpost.com/middle-east/article-907500": {
+      "summary": "A weekly selection of opinions and analyses of the Arab media around the world.",
+      "tags": [
+        "Iran",
+        "Iraq",
+        "China",
+        "Baghdad",
+        "Tehran"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
     }
   },
   "last_digest_success": true,
@@ -6247,7 +6270,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-06T11:07:52.427623+00:00",
   "last_generated_date": "2026-09-06",
-  "last_generated_time": "2026-09-06T15:01:26.717972+00:00",
+  "last_generated_time": "2026-09-06T16:01:34.082320+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

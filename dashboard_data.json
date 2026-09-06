@@ -6157,6 +6157,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-06"
+    },
+    "https://www.nytimes.com/2026/09/06/business/oil-gas-prices-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-06"
     }
   },
   "last_digest_success": true,
@@ -6290,12 +6300,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-06T11:07:52.427623+00:00",
   "last_generated_date": "2026-09-06",
-  "last_generated_time": "2026-09-06T19:01:38.760965+00:00",
+  "last_generated_time": "2026-09-06T20:01:44.750030+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Prices Rise Slightly After U.S. and Iran Trade Strikes - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tdXhlb3hCRjN0TWt4Vkl1THhuUklqUGJTbzgybGZ4WFB2Q2oxUVd1Mk5Zd09MS3FuZ0pMd29lMk9WSmMzMktxZkpVaTQxczI3UEJnSkxlMkl4dEE1ODcyX2xPZmQweDJSeVpuamRyS1dBdGJZVDVzT2trSWY?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 06, 2026 · 19:32 BRT",
+          "pub_date": "2026-09-06",
+          "pub_ts": 1788733921,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2JCeUZJRmd5UEhfaFJjQ2U3UDRValp0Y0ZVOVBiWXE0YzBVZHhTd3RlR0FQMlZHMFRadXJvS01XOHBvb0p2Qzg0V1FYeDdUWC1uMDBFZU5JNnZCRVh1M1lLLWZCQ2Jhb1djdlJxTGEtNGNHWk96czEzUm13VE9wMVp1YjhEQ21WSVZwUlZOMEpBbkJVRm1tRV9wTy13Z0RaMXpvd29RMFdRUkg5ZjVUaTRuRkhCZ3doLTJtWnRoZFU?oc=5",

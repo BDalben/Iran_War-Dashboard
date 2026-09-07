@@ -6368,6 +6368,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-07"
+    },
+    "https://www.wsj.com/world/middle-east/irans-oil-dollars-are-drying-upand-plunging-it-deeper-into-crisis-21bae4bd": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
     }
   },
   "last_digest_success": true,
@@ -6524,12 +6534,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-07T11:07:50.763876+00:00",
   "last_generated_date": "2026-09-07",
-  "last_generated_time": "2026-09-07T15:01:47.482964+00:00",
+  "last_generated_time": "2026-09-07T17:01:45.079775+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeXRfc2dzTXJvU0JkTG56SThDeEpvVWFhbDV6Q0ZGZ3pBdzI3UGNFblRaajd0LTFmdkdoLW8tOTF1QVdZOFAtMC1Ob183YWpRT1JsVnhVOThTTk80WTdQb0tPd3NUSENVWnVoSl9UcExHeDZGbndLQnEtblFLZU1KR01nTDM3dVVyOS1Kc1JRME1WTU52QThMSWZ3emxpUWl4bjVUYVFvT2xmNG5VZFhOU09R?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 07, 2026 · 14:26 BRT",
+          "pub_date": "2026-09-07",
+          "pub_ts": 1788801976,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran says to announce new restricted zone in the Gulf in the coming days - Reuters",
           "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM292TDh2Uk9IeUlEeFNFY1UyeFM3OFZzd2w1S013bEtmVnhXYmdfT0ptV1ZfTlRTRXBLVzFZdmZ6T0d2cVdkZHAtbmhFTjlHUmJRQkRVZDhwMGJZZUM2MEpBS041SmhGcEhWZTlQemFBcjRaNkwyWkhhUlNFc1dNZEVyQ1R0YzFnRm5ZNHd3VU5NV01EeWZVZjJrUW5VWGF2X2R1U0xzSFEwbE9iY1E?oc=5",

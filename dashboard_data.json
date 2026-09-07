@@ -6302,52 +6302,75 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907819": {
+      "summary": "Speaking to the IAEA's Board of Governors, Grossi said the watchdog's lack of information on Iran’s nuclear program is a \"serious proliferation concern\" and \"needs to be rectified.\"",
+      "tags": [
+        "IAEA",
+        "Iran",
+        "uranium",
+        "Iran Nuclear Deal",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-07/us-to-turn-diplomatic-screws-on-iran-over-nuclear-non-compliance": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-06T11:07:45.205737+00:00",
+  "last_digest_time": "2026-09-07T11:07:40.489127+00:00",
   "digest": {
-    "digest": "Recent events indicate heightened military activity in waters near Iran, with reports of U.S. forces striking Iranian vessels following the targeting of Navy ships. This escalation has contributed to a persistent stalemate in the Strait of Hormuz, a critical global shipping lane. Iranian leadership appears to be reassessing its military capabilities, gaining confidence and showing reluctance to conclude the conflict. Concurrently, there is a noted increase in the movement of machinery and materials by U.S. energy companies to the Middle East, aimed at repairing damaged infrastructure. This suggests ongoing efforts to address the physical impacts of the conflict and maintain energy supply chains. The situation points to a complex interplay of direct military confrontation, strategic chokepoint control, and post-conflict infrastructure rebuilding efforts.",
+    "digest": "The ongoing conflict between the US and Iran has seen a recent exchange of tanker attacks, escalating the six-month confrontation. In response to the war's impact, Iran plans to increase petrol prices due to shortages and has announced its intention to establish a new restricted zone in the Gulf. Diplomatic efforts appear strained, with the US energy secretary indicating the Iran nuclear deal is unlikely to materialize soon, and the US plans to intensify diplomatic pressure on Iran regarding nuclear non-compliance. The International Atomic Energy Agency (IAEA) has reported being unable to verify Iran's nuclear program for over a year, citing a \"serious proliferation concern\" due to a lack of access since joint US-Iran attacks in June 2025. Iran is also reportedly nearing a deal with Oman concerning the Strait of Hormuz. Meanwhile, regional tensions persist with reports of a Palestinian killed during a clash with settlers and Houthis shooting down a Saudi drone. China's crude oil imports remained weak in August, raising questions about the sustainability of this trend.",
     "top_themes": [
-      "Military Engagements",
-      "Strait of Hormuz Tensions",
-      "Iranian Military Confidence"
+      "Iran-US Conflict Escalation",
+      "Iran's Nuclear Program Status",
+      "Strait of Hormuz Tensions"
     ],
     "next_events": [
       {
-        "title": "Direct Military Escalation & Retaliation Cycle",
-        "description": "The recent US strikes on Iranian tankers and reciprocal firing indicate a dangerous cycle of direct military engagement. Analysts should monitor for further tit-for-tat actions, particularly in maritime zones, and assess the potential for these localized clashes to broaden in scope or intensity."
+        "title": "Escalation in the Persian Gulf and Strait of Hormuz",
+        "description": "Iran's impending announcement of a new restricted zone in the Gulf, coupled with ongoing US-Iran tanker attacks and the reported Strait of Hormuz deal with Oman, indicates a critical period for maritime security. Analysts should closely monitor the specifics of the new zone, any further naval incidents, and the terms of the Oman deal, as these will determine the immediate risk to global shipping and the potential for direct military confrontation in this vital waterway."
       },
       {
-        "title": "Strait of Hormuz: Escalating Maritime Tensions",
-        "description": "With ongoing attacks keeping the Strait of Hormuz in a 'lethal stalemate,' the risk of significant disruption to global shipping and energy supplies remains high. Watch for increased frequency or severity of incidents targeting vessels, and any shifts in naval deployments or escort operations by international forces."
+        "title": "Iran's Unmonitored Nuclear Program and Diplomatic Pressure",
+        "description": "The IAEA's inability to verify Iran's nuclear program for over a year, combined with the US turning 'diplomatic screws' and the stalled nuclear deal, poses a significant proliferation risk. Watch for any indications of Iran's nuclear advancements, the nature and impact of international pressure, and any shifts in Iran's stance on granting inspectors access, especially as the resolution of the Strait of Hormuz standoff is linked to IAEA involvement."
       },
       {
-        "title": "Iranian Leadership's Escalation Calculus & Hybrid Threats",
-        "description": "Reports suggest Iranian leadership, emboldened by perceived military strengths, is considering further escalation, including potential military and cyberattacks. Analysts should look for shifts in Iranian rhetoric, new forms of aggression (e.g., sophisticated cyberattacks on critical infrastructure), and any indications of a change in their strategic objectives."
+        "title": "Iran's Internal Economic Stability and Public Response",
+        "description": "Iran's decision to raise petrol prices due to war-triggered shortages and its warning of 'more painful' attacks underscore severe economic strain. Analysts should observe any signs of public unrest or protests stemming from economic hardship, and how the Iranian government balances internal stability with its external military actions. This internal dynamic could significantly influence the regime's willingness to escalate or de-escalate conflicts."
       },
       {
-        "title": "Infrastructure Vulnerability & Reconstruction Demands",
-        "description": "The ongoing need for US energy companies to rebuild damaged infrastructure in the Middle East highlights the persistent targeting of vital assets. Monitor for new attacks on energy facilities, shipping infrastructure, or other critical sites, as these could signal a broader campaign to destabilize the region and impact global markets."
+        "title": "Regional Alliance Shifts and Proxy Conflict Dynamics",
+        "description": "Statements from Qatari officials questioning the sufficiency of the US alliance, alongside continued proxy actions like Houthi drone attacks, suggest evolving regional security perceptions and ongoing instability. Monitor for new regional security initiatives, potential realignments of alliances, and the intensity of proxy conflicts, as these could broaden the scope of the Iran War and involve additional regional and international actors."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-06T11:07:51.982173+00:00",
+  "last_watch_time": "2026-09-07T11:07:50.246339+00:00",
   "relevant_news": [
     {
-      "title": "U.S. military says it hit 3 Iranian tankers after Navy ships targeted - The Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/05/us-says-it-hit-3-iranian-oil-tankers-including-one-near-kharg-island/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 06, 2026 · 03:14 BRT",
-      "pub_date": "2026-09-06",
-      "pub_ts": 1788675272,
+      "title": "Watch US, Iran Exchange Tanker Attacks as War Continues - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-07/us-iran-exchange-tanker-attacks-as-war-continues-video",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 07, 2026 · 05:09 BRT",
+      "pub_date": "2026-09-07",
+      "pub_ts": 1788768554,
       "summary": "",
       "tags": [
         "extracted",
-        "washingtonpost.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6355,14 +6378,33 @@
       "sentiment_success": false
     },
     {
-      "title": "US, Iranian forces fire at vessels in waters near Iran - reuters.com",
-      "url": "https://www.reuters.com/world/middle-east/explosions-heard-near-irans-kharg-island-gulf-origin-unknown-fars-news-says-2026-09-05/",
-      "source": "reuters.com",
+      "title": "Iran, US Trade Tanker Attacks as Six-Month Conflict Escalates - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/iran-says-it-targeted-oil-tankers-in-response-to-us-strikes",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 06, 2026 · 22:46 BRT",
+      "pub_date": "2026-09-06",
+      "pub_ts": 1788745560,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran to tackle economic issues, says further attacks will be 'more painful' - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-tackle-economic-issues-says-further-attacks-will-be-more-painful-2026-09-06/",
+      "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 05, 2026 · 20:09 BRT",
-      "pub_date": "2026-09-05",
-      "pub_ts": 1788649761,
+      "published": "Sep 06, 2026 · 08:42 BRT",
+      "pub_date": "2026-09-06",
+      "pub_ts": 1788694920,
       "summary": "",
       "tags": [
         "extracted",
@@ -6374,18 +6416,40 @@
       "sentiment_success": false
     },
     {
-      "title": "Iran’s Attacks Keep the Strait of Hormuz in a Lethal Stalemate - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/06/business/iran-us-strait-of-hormuz-shipping.html",
-      "source": "The New York Times",
-      "domain": "nytimes.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 06, 2026 · 06:10 BRT",
-      "pub_date": "2026-09-06",
-      "pub_ts": 1788685802,
+      "title": "IAEA's Grossi: Watchdog unable to verify Iran’s nuclear program for over a year - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-907819",
+      "source": "The Jerusalem Post",
+      "domain": "jpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
+      "published": "Sep 07, 2026 · 07:44 BRT",
+      "pub_date": "2026-09-07",
+      "pub_ts": 1788777892,
+      "summary": "Speaking to the IAEA's Board of Governors, Grossi said the watchdog's lack of information on Iran’s nuclear program is a \"serious proliferation concern\" and \"needs to be rectified.\"",
+      "tags": [
+        "IAEA",
+        "Iran",
+        "uranium",
+        "Iran Nuclear Deal",
+        "Israel Iran War"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "IAEA's\nGrossi:\nWatchdog\nunable\nto\nverify\nIran’s\nnuclear\nprogram\nfor\nover\na\nyear\n|\nThe\nJerusalem\nPost\nIAEA\nhas\nbeen\ncompletely\nblind\nto\nIran’s\nnuclear\nprogram\nfor\nover\na\nyear,\nRafael\nGrossi\nsays\nSpeaking\nto\nthe\nIAEA's\nBoard\nof\nGovernors,\nGrossi\nsaid\nthe\nwatchdog's\nlack\nof\ninformation\non\nIran’s\nnuclear\nprogram\nis\na\n\"serious\nproliferation\nconcern\"\nand\n\"needs\nto\nbe\nrectified.\"\nFollow\nus\non\nGoogle\nInternational\nAtomic\nEnergy\nAgency\n(IAEA)\ndirector-general\nRafael\nGrossi\nspeaks\nto\nthe\nmedia\non\nthe\nsidelines\nof\na\nmeeting\nof\nthe\nIAEA\nBoard\nof\nGovernors\nin\nVienna,\nAustria,\nJune\n5,\n2026\n(\nphoto\ncredit\n:\nREUTERS/ELISABETH\nMANDL\n)\nBy\nYONAH\nJEREMY\nBOB\nSEPTEMBER\n7,\n2026\n13:43\nUpdated\n:\nSEPTEMBER\n7,\n2026\n14:00\nThe\nInternational\nAtomic\nEnergy\nAgency\n(IAEA)\nis\ncompletely\nblind\nregarding\nIran's\nnuclear\nprogram\nand\nhas\nbeen\nsince\nat\nleast\nJune\n2025,\nthe\nagency's\nDirector-General\nRafael\nGrossi\ntold\nits\nBoard\nof\nGovernors\non\nMonday.\nGrossi\nsaid,\n\"As\nstated\nin\nthe\nreport...the\nAgency\nhas\nneither\nreceived\ninformation\nfrom\nIran\nregarding\nthe\nstatus\nof\nits\ndeclared\nnuclear\nmaterial\nor\nfacilities\nnor\nhad\naccess\nto\nany\nof\nthose\nfacilities\nto\nconduct\nin-field\nverification\nactivities.\nTherefore,\nthe\nAgency\nwas\nunable\nto\ndischarge\nits\nsafeguards\nresponsibilities\nunder\nthe\nNPT\nSafeguards\nAgreement\nat\ndeclared\nnuclear\nfacilities\nin\nIran.\"\n\"Consequently,\nwe\nwere\nnot\nable\nto\nverify\ntheir\nstatus\nfor\nsafeguards\npurposes\nand\nthe\nassociated\nnuclear\nmaterial,\nand\nas\na\nresult\nI\nam\nalso\nunable\nto\nreport\nin\nrelation\nto\nthe\nimplementation\nby\nIran\nof\nrelevant\nprovisions\nof\nthe\nUN\nSecurity\nCouncil\nresolutions\nor\nthe\nBoard’s\nresolutions\nof\nNovember\nlast\nyear\nand\nJune\nthis\nyear,\"\nhe\ncontinued.\nFurther,\nhe\nsaid,\n\"It\nis\nmore\nthan\na\nyear\nsince\nthe\nAgency\nlost\ncontinuity\nof\nknowledge\nin\nrelation\nto\nthe\npreviously\ndeclared\ninventories\nof\nLEU\nand\nHEU\nenriched\nup\nto\n60%\nU-235\nat\nthe\ndeclared\nnuclear\nfacilities\naffected\nby\nthe\nmilitary\nattacks\nof\nJune\n2025,\"\nreferring\nto\nIsrael's\nwar\nwith\nIran\nlast\nyear\n.\nNext,\nhe\nnoted,\n\"The\nAgency’s\nlack\nof\ninformation\nabout\nthese\nfacilities\nand\nassociated\nnuclear\nmaterial\nand\nour\ninability\nto\nconduct\nverification\nactivities\nat\nthese\nfacilities\nis\na\nmatter\nof\nserious\nproliferation\nconcern.\nThe\nsituation\nneeds\nto\nbe\nrectified\nwith\nthe\nutmost\nurgency.\"\nMoreover,\nGrossi\nsaid,\nhe\ncalled\non\nIran\n\"to\nengage\nwith\nthe\nAgency\nconstructively\nin\norder\nto\nmake\npossible\nthe\nfull\nand\neffective\nimplementation\nof\nAgency\nsafeguards\nin\nIran\nand\nto\nfulfill\nits\nresponsibilities\nunder\nthe\nNPT\nSafeguards\nAgreement.\"\n\"A\nreturn\nto\ndiplomacy\nand\nnegotiations\naimed\nat\nfinding\na\nsolution\nto\nissues\nrelated\nto\nIran’s\nnuclear\nprogram\nis\nimperative,\nand\nthe\nAgency\nstands\nready\nto\nsupport\nsuch\nefforts.\nThe\nsituation\nregarding\nIran’s\nnuclear\nprogram\nhas\nimplications\nfor\nthe\nglobal\nnon-proliferation\nregime,\"\nhe\nwarned.\nIran\nrefuses\naccess\nto\nIAEA\ninspectors\nsince\njoint\nIsrael-US\nattacks\nSince\nIsrael\nand\nthe\nUS\nstruck\nIran\nin\nJune\n2025,\nTehran\nhas\nrefused\naccess\nto\nthe\nIAEA\nto\nany\nof\nits\nnuclear\nfacilities,\nclaiming\nthat\nthe\nagency\nwould\npass\non\nclassified\ninformation\nto\nthose\nwho\nattacked\nit.\nWhile\nGrossi\nat\npoints\nhas\nsaid\nthat\nsolving\nnuclear\nissues\nby\nthe\nuse\nof\nforce\nis\nless\nproductive\nthan\ndiplomacy,\nthe\nIslamic\nregime\nhas\nviewed\nhis\nstance\non\nAmerican\nand\nIsraeli\nattacks\non\nIran's\nnuclear\nprogram\nin\n2025-2026\nas\ntoo\nmild,\nand\ntaken\noffense\nthat\nhe\nhas\nnot\ncondemned\nthe\nattacks\nmore\nforcefully.\nHowever,\nwhile\nGrossi\nhas\ncomplained\nthat\nIran\nhas\ncut\noff\nIAEA\naccess\nalmost\ncompletely\nin\n2025-2026\n-\nwith\nthe\nexception\nof\na\nvisit\nto\nthe\nBushehr\nnuclear\nfacility,\nwhich\nhas\nnever\npresented\nany\nthreat\n-\nin\nfact,\nthe\nIslamic\nRepublic\nstarted\nto\nsignificantly\nlimit\nIAEA\ninspector\naccess\nas\nearly\nas\n2021.\nAs\nearly\nas\nNovember\n2021,\nGrossi\ncited\nthe\nIslamic\nRepublic's\nviolation\nof\na\nsupposed\ndeal\nfrom\nSeptember\n12,\n2021,\nto\nrenew\nIAEA\naccess\nto\nthe\ncritical\nKaraj\nnuclear\nsite\n.\nBecause\nTehran\nreneged\non\nthe\ndeal,\nGrossi\nsaid,\n\"the\nlack\nof\naccess\nto\nthe\nKaraj\nworkshop\nhas\nmeant\nthat\nthe\nrestoration\nof\nsurveillance\nand\nmonitoring\nat\nall\nof\nIran’s\nfacilities\nand\nlocations\nin\nrelation\nto\nthe\nJCPOA\ncould\nnot\nbe\ncompleted.\nThis\nis\nseriously\naffecting\nthe\nAgency’s\nability\nto\nrestore\ncontinuity\nof\nknowledge\nat\nthe\nworkshop,\nwhich\nhas\nbeen\nwidely\nrecognized\nas\nessential\nin\nrelation\nto\na\nreturn\nto\nthe\nJCPOA\"\n2015\nnuclear\ndeal.\nA\nsatellite\nimage\nshows\na\nnew\nroof\nover\na\npreviously\ndestroyed\nbuilding\nat\nIsfahan\nnuclear\nsite,\nIran,\nFebruary\n1,\n2026\n(credit:\n2026\nPLANET\nLABS\nPBC/Handout\nvia\nREUTERS)\nIran’s\nIAEA\nobstruction\npredates\nthe\n2025\nwar\nwith\nIsrael\nGoing\nback\nfurther\nin\ntime,\nIran\nhas\naccused\nthe\nUS\nof\nbeing\nthe\nfirst\nto\nviolate\nthe\n2015\ndeal\nwhen\nfirst-term\nUS\nPresident\nDonald\nTrump\npulled\nout\nof\nthat\ndeal\nin\nMay\n2018.\nHowever,\nwhen\nTrump\npulled\nout,\nhe\nnoted\nthat\nthe\nMossad\nhad\nprovided\ntens\nof\nthousands\nof\nfiles\nof\nevidence\nof\nIranian\nlying\nand\ncheating\nrelating\nto\nthe\ndeal\nwhen\nit\nseized\nIran's\nnuclear\narchives\nin\nJanuary\n2018.\nAlthough\nIran\nwas\ncertainly\ncomplying\nwith\nsome\nsignificant\naspects\nof\nthe\ndeal,\nthe\narchives\nproved\nthat\nthe\nregime\nwas\nalso\nsystematically\nseeking\nto\nhide\nthe\nweapons\naspects\nof\nthe\nnuclear\nprogram\nfrom\nthe\nIAEA\nand\nthe\nWest.\nCurrently,\nneither\nIran\nnor\nthe\nUS\nis\npushing\nfor\nIAEA\ninvolvement\nuntil\nthey\nresolve\ntheir\nother\nongoing\nstandoff\nover\nthe\nStraits\nof\nHormuz\n.\nIsrael\nremains\nconcerned\nthat\nwhatever\nis\nleft\nof\nIran's\nnuclear\nprogram\nafter\nthe\n2025-2026\nstrikes\nhas\nnot\nyet\nbeen\nclosed\ndown\nas\nis\nnot\nbeing\noverseen\nby\nIAEA\ninspectors.\nSee\nmore\non\nIAEA\n|\nIran\n|\nuranium\n|\nIran\nNuclear\nDeal\n|\nIsrael\nIran\nWar\n|\nInternational\nAtomic\nEnergy\nAgency\n|\nnuclear\nprogram\n|\nRafael\nGrossi\nFollow\nus\non\nGoogle",
+      "sentiment_success": false
+    },
+    {
+      "title": "US To Turn Diplomatic Screws on Iran Over Nuclear Non-Compliance - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-07/us-to-turn-diplomatic-screws-on-iran-over-nuclear-non-compliance",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 07, 2026 · 05:28 BRT",
+      "pub_date": "2026-09-07",
+      "pub_ts": 1788769684,
       "summary": "",
       "tags": [
         "extracted",
-        "nytimes.com"
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6393,39 +6457,21 @@
       "sentiment_success": false
     },
     {
-      "title": "Iranian leadership considers escalation as US officials fear military, cyberattacks - report - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-907621",
+      "title": "Live Updates: Latest from Israel, Iran, and the Middle East - The Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/2026-09-07/live-updates-907766",
       "source": "The Jerusalem Post",
       "domain": "jpost.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 05, 2026 · 18:13 BRT",
-      "pub_date": "2026-09-05",
-      "pub_ts": 1788642816,
-      "summary": "Throughout the war, Iran gained a better understanding of its military strengths and confidence regarding its capabilities, leading to a reluctance among Iranian leaders to end the war.",
+      "published": "Sep 07, 2026 · 07:00 BRT",
+      "pub_date": "2026-09-07",
+      "pub_ts": 1788775205,
+      "summary": "Report: Palestinian killed during clash with settlers near Kalkilya • Report: Houthis shoot down Saudi reconnaissance drone • Iran to announce new restricted zone in the Gulf",
       "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
         "Iran",
-        "us iran",
-        "Donald Trump",
-        "midterm elections",
-        "strait of hormuz"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran war rebuild boosts world’s biggest air cargo handler - Financial Times",
-      "url": "https://www.ft.com/content/a8207f0e-9e1c-4d41-a3e0-a96587bad3a6?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "domain": "ft.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=ft.com",
-      "published": "Sep 05, 2026 · 23:21 BRT",
-      "pub_date": "2026-09-05",
-      "pub_ts": 1788661318,
-      "summary": "SATS says US energy companies rushing machinery and materials to Middle East to repair damaged infrastructure",
-      "tags": [
-        "extracted",
-        "ft.com"
+        "United States"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6433,9 +6479,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-06T11:07:52.427623+00:00",
-  "last_generated_date": "2026-09-06",
-  "last_generated_time": "2026-09-06T22:01:36.971957+00:00",
+  "last_relevant_time": "2026-09-07T11:07:50.763876+00:00",
+  "last_generated_date": "2026-09-07",
+  "last_generated_time": "2026-09-07T08:01:38.897949+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

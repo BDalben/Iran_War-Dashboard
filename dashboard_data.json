@@ -6186,7 +6186,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-06"
+      "pub_date": "2026-09-07"
     },
     "https://www.reuters.com/world/middle-east/hormuz-traffic-dips-lowest-since-may-after-us-iranian-strikes-ships-2026-09-06/": {
       "summary": "",
@@ -6207,6 +6207,38 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-06"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-announce-new-restricted-zone-gulf-coming-days-2026-09-07/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907791": {
+      "summary": "He said that European states are 'irrational' for seeking a UN resolution against Iran when 'imposed-war' made nuclear facilities inaccessible.",
+      "tags": [
+        "Foreign Ministry",
+        "Iran",
+        "United Nations",
+        "United States"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/iran-war-shows-strategic-alliance-with-us-is-important-but-not-enough-qatari-official-says/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
     }
   },
   "last_digest_success": true,

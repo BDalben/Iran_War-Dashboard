@@ -6292,6 +6292,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-07"
+    },
+    "https://www.ft.com/content/15d59180-ea46-4441-9c45-d6be584ae911?syn-25a6b1a6=1": {
+      "summary": "Fuel is among the cheapest in the world but authorities warn that subsidies have become unsustainable",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
     }
   },
   "last_digest_success": true,
@@ -10964,6 +10974,20 @@
           "published": "Sep 02, 2026 · 03:34 BRT",
           "pub_date": "2026-09-02",
           "pub_ts": 1788330896,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US-Iran Conflict Intensifies as Trump Downplays Desire for Deal - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUm1mTWR0X3FkcjZEalpmTkZIS01ibWJBNUdnT2Q2OTk4c01tUXVvMmczdVVoQlZmVU13TlVLTEVocnZVcmZqZm9icDhuS256X1JNajVVdy0wR1Z2akZ2dlVaQVdBbUl3X0syTUdURmc5VHk2M3M4OGpITHl1elRmaGRRcDNIbDJybUF0MU81bW5kbHRYMlRKN0pCbHlaZU5abkd0ZjN3UDE3ZXEyOTVmZ0p3?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 01, 2026 · 23:54 BRT",
+          "pub_date": "2026-09-01",
+          "pub_ts": 1788317640,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

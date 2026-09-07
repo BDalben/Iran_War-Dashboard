@@ -6186,6 +6186,16 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
+      "pub_date": "2026-09-07"
+    },
+    "https://www.reuters.com/world/middle-east/hormuz-traffic-dips-lowest-since-may-after-us-iranian-strikes-ships-2026-09-06/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
       "pub_date": "2026-09-06"
     }
   },
@@ -9117,6 +9127,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Ship fuel shortage looms as refiners strained by war favour other products - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcjJsRnYxdWplZmMxWnZxd2JBRjdaR2YtV0VrMEJCNmFTUjF1U1oyaVhiZk5XZ2Rvc1lXVEdhQjd0bWxxZ1R6Sl9Eckl0S3NXSXpjbGZ5QjJ6dnVkbG9tc2RtRl8tNy1heW1RVHh1VlZ2ZUVtQnJTREdYRlJsRFo5VjRoNUhRTEV2c0dwd01fNWphVkg4LW9oeExqdm1jQW9nRFdGYm16WTRkUjkxUmpaN2NPdDZpUVl2Tk1KQ0xZZWY?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 06, 2026 · 22:02 BRT",
+          "pub_date": "2026-09-06",
+          "pub_ts": 1788742920,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Americans hit with record-high Labor Day Weekend gasoline prices - Reuters",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFRnN3lrWTZLMXNUSW1MWWwxemVSc1RuaDM1dnhkWlZpbDJZT2t5dGYxRWlMa1RiblhPN0ttUzRHUDcwUGRVVEsyb092RTAzR3lZeDN6dFpRVDN4SjhlYng0Y082RjJSVEVZWkg4SnZ2SGtaNW1DbExVTklPMXZHdnVWZTZqbUZ6QkRYMU1mLWhyeEF5VzQ2anpJaThuVmNxSF8xWTBDRkNJVzMybTV0Rlo5dlFiUFk?oc=5",

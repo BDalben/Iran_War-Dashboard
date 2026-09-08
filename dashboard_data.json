@@ -4719,7 +4719,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-07"
+      "pub_date": "2026-09-08"
     },
     "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f": {
       "summary": "",
@@ -6411,6 +6411,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-07"
+    },
+    "https://www.bloomberg.com/opinion/articles/2026-09-08/trump-s-iran-war-forgot-about-nukes": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,
@@ -6573,6 +6583,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Explainer: Why isn't oil above $100 despite supply disruptions? - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEwxQTVrUWVzenpNQVoxdkFTWDRCckVzNmNFR1B4bTJoSDhOVTZZZVlFb2FjMHdGWFU2WlpfbmE2eksxeXBSM1hhcnZwSDUyTVJ3M2dJaUtqejdmY3FBSWRvZmFkOVVGeVdZbmFrTUlpZ0lIWTdCYTdpcUx5MHV3ZFBnSFE3dGV4cG9JYWlpR2J5MDE0WjdueUV3V1FkaEc5ZUlR?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 07, 2026 · 23:00 BRT",
+          "pub_date": "2026-09-07",
+          "pub_ts": 1788832800,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNT2RnNWprQ01ScjN2Q05RSHRWdmRqVzh2U01LUVVPVmhiRDVYNER3anQxQlNWV24wS3RZR2ZqS1FxNnFKWFRqSmlYbnQwSFk1eU5Cbnh1SVpxbTZCWUwtelFqbFV6LTNLVHZZbGRaYTVucy1VT1JwNDZPM3gydkZRU2VCWHFoVnpTVU9ILXlfRHpKMnBsT3RJOUlkejRzT1FJa25YekFnMVl6dUJnbERxeXo1UnpOZTVaQ281aFJrbjFEWmN3T2c?oc=5",

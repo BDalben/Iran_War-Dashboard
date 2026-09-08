@@ -6441,6 +6441,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-07"
+    },
+    "https://www.reuters.com/world/africa/south-africas-second-quarter-gdp-contracts-02-qq-2026-09-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-08/south-african-economy-snaps-growth-streak-as-iran-war-takes-toll": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-907940": {
+      "summary": "“We must, in accordance with the overwhelming majority of the people, end the war with honor so that we can rebuild the country, so that we can compensate for the damage done,” Hassan Rouhani said.",
+      "tags": [
+        "Iran",
+        "Hassan Rouhani",
+        "islamic regime",
+        "IRGC",
+        "Mojtaba Khamenei"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,

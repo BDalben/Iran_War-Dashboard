@@ -6397,7 +6397,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-07"
+      "pub_date": "2026-09-08"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-09-08/live-updates-907891": {
       "summary": "Iran threatens US with Persian Gulf maritime exclusion zone • CENTCOM redirects 94 commercial vessels enforcing Iran blockade • Trump says oil prices will drop after US 'wins' Iran war",
@@ -6490,6 +6490,36 @@
       "tags": [
         "extracted",
         "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.washingtonpost.com/world/2026/09/08/gulf-nations-build-defenses-aim-bypass-hormuz-iran-war-drags/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.reuters.com/world/middle-east/why-havent-houthis-irans-allies-yemen-stepped-into-war-2026-09-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.reuters.com/business/aerospace-defense/uk-publishes-legislation-tougher-sanctions-iran-2026-09-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
@@ -6645,7 +6675,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-08T11:06:09.388818+00:00",
   "last_generated_date": "2026-09-08",
-  "last_generated_time": "2026-09-08T09:01:40.998089+00:00",
+  "last_generated_time": "2026-09-08T10:01:45.905322+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -6702,6 +6732,20 @@
           "published": "Sep 07, 2026 · 12:00 BRT",
           "pub_date": "2026-09-07",
           "pub_ts": 1788793200,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 07, 2026 · 10:13 BRT",
+          "pub_date": "2026-09-07",
+          "pub_ts": 1788786803,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

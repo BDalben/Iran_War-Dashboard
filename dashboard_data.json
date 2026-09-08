@@ -6567,6 +6567,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-08"
+    },
+    "https://www.washingtonpost.com/business/2026/09/08/us-treasury-places-sanctions-dozens-iranian-airlines-pressure-tehran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,
@@ -6718,7 +6728,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-08T11:06:09.388818+00:00",
   "last_generated_date": "2026-09-08",
-  "last_generated_time": "2026-09-08T15:01:45.182317+00:00",
+  "last_generated_time": "2026-09-08T16:02:05.321596+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

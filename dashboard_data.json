@@ -6388,6 +6388,29 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-07"
+    },
+    "https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-08/live-updates-907891": {
+      "summary": "Iran threatens US with Persian Gulf maritime exclusion zone • CENTCOM redirects 94 commercial vessels enforcing Iran blockade • Trump says oil prices will drop after US 'wins' Iran war",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hezbollah",
+        "Iran",
+        "West Bank",
+        "oil"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-07"
     }
   },
   "last_digest_success": true,

@@ -6334,7 +6334,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-08"
+      "pub_date": "2026-09-07"
     },
     "https://www.bloomberg.com/news/videos/2026-09-07/us-iran-exchange-tanker-attacks-as-war-continues-video?srnd=phx-economics-v2": {
       "summary": "",
@@ -6587,6 +6587,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-08"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-08/iran-seizes-underwater-drone-that-us-forces-say-malfunctioned": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,
@@ -6738,7 +6748,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-08T11:06:09.388818+00:00",
   "last_generated_date": "2026-09-08",
-  "last_generated_time": "2026-09-08T18:01:42.597434+00:00",
+  "last_generated_time": "2026-09-08T19:02:15.310930+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -9810,6 +9820,20 @@
           "published": "Sep 03, 2026 · 04:24 BRT",
           "pub_date": "2026-09-03",
           "pub_ts": 1788420291,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US Diesel Hits Highest Since April as Wars Strain Global Supply - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUVraVd0RFdyUXIwQXF5M21UWVN0Mkc0Y2ZoSGRYN2c1Sm8tTERLVGxXeUZaTGN1UUpjZF9NdDA5cURnMEgyLVlWS0tIVVVPdHNsbV82WHI3aHJfczc3UGxNVXpTWjdwUGFXNERjYjRUWnJodE1XTEl0aVpwdTRXR29xOVZxUElnUVpWekU3cUZJNURObHpheFpwYVBXWHdNNi1IdlNqLWp4ZkFPMmdmUm9tSWY?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 02, 2026 · 08:29 BRT",
+          "pub_date": "2026-09-02",
+          "pub_ts": 1788348589,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -6713,45 +6713,68 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-08T11:05:57.624156+00:00",
+  "last_digest_time": "2026-09-09T11:08:27.652877+00:00",
   "digest": {
-    "digest": "The ongoing conflict involving Iran has seen an expansion of attacks, with Iran-backed Houthis targeting four Saudi cities, resulting in 73 reported injuries. Saudi Arabia has vowed retaliation following these Houthi attacks. Concurrently, traffic through the Strait of Hormuz has slowed due to Iranian threats of retaliation against US attacks, and Iran has warned that US energy assets in the Gulf are vulnerable. The economic repercussions of the conflict are significant, with the South African economy contracting in the second quarter, directly attributed to the war's impact, and US consumers facing an estimated $100 billion in additional energy costs. In a notable internal development, Iran's former president, Hassan Rouhani, has called for an end to the war and public input on its resolution, though this has led to calls for his arrest. The United Arab Emirates has stated its energy exports will not be held hostage by the war. The conflict's classification is also a point of discussion, as evidenced by a US Air Force widow initially being denied benefits, with the situation described as 'not technically a war' despite the deaths of 18 US servicemen.",
+    "digest": "Tensions in the Strait of Hormuz have significantly escalated, with Iran and the U.S. engaging in direct confrontations involving oil tankers and naval assets. Iran has signaled a readiness to intensify conflict amidst rising U.S. pressure, leading to retaliatory actions against U.S. allies after its oil tankers were reportedly destroyed. The U.S. confirmed destroying Iranian oil tankers following an attempted strike on a U.S. warship. Concurrently, Iran launched missiles toward a U.S. base in Jordan and seized an underwater drone in the Strait of Hormuz, which the U.S. claims malfunctioned. These events have driven oil prices to $100 a barrel due to intensified Middle East turmoil. Gulf nations are actively developing alternative shipping routes and defenses to bypass the Hormuz Strait, as transit costs through the waterway have increased. Within Iran, there are internal calls, such as from former president Rouhani, to end the war to facilitate national rebuilding and compensation for damages, though these have met with calls for his arrest.",
     "top_themes": [
-      "Regional Escalation",
-      "Economic Impact",
-      "Diplomatic Tensions"
+      "Maritime Security",
+      "Oil Market Volatility",
+      "Geopolitical Escalation"
     ],
     "next_events": [
       {
-        "title": "Intensification of Saudi-Houthi Conflict",
-        "description": "The recent Houthi attacks on Saudi cities and Saudi Arabia's subsequent vow of retaliation signal a potential escalation in the regional conflict. Analysts should monitor for direct Saudi military responses, the targeting of Houthi strongholds, and any spillover effects that could further destabilize the broader Middle East."
+        "title": "Escalation of Direct Military Confrontations",
+        "description": "The repeated attacks on oil tankers, US bases, and naval assets, coupled with the seizure of a US drone, indicate a high risk of further direct military engagements. Analysts should monitor for new attacks on shipping, military installations, or personnel, and observe the nature and proportionality of responses from both the US and Iran, as these could quickly lead to a broader conflict."
       },
       {
-        "title": "Threats to Gulf Energy Infrastructure and Shipping",
-        "description": "Iran's threats of retaliation for US attacks and warnings regarding US energy assets, coupled with slowing traffic in the Strait of Hormuz, indicate a high risk to global energy supplies. Watch for any direct actions against shipping or energy infrastructure in the Gulf, which could lead to significant spikes in oil prices and further global economic contraction."
+        "title": "Global Energy Market and Shipping Lane Stability",
+        "description": "With oil prices hitting $100 a barrel and transit costs through the Strait of Hormuz escalating, the conflict's impact on global energy markets is significant. Watch for further spikes in oil prices, increased insurance premiums for maritime transport, and any disruptions to key shipping lanes, particularly the Strait of Hormuz, which could have severe global economic repercussions."
       },
       {
-        "title": "Growing Internal Pressure on Iranian Leadership",
-        "description": "Former President Rouhani's call for public input on ending the war, despite calls for his arrest, highlights potential internal divisions and public discontent within Iran. Analysts should observe how the Iranian regime responds to such dissent, as it could indicate shifts in domestic policy or lead to increased political instability."
+        "title": "Regional Proxy Actions and Conflict Spillover",
+        "description": "Iran's retaliation against US allies and the involvement of groups like the Houthis suggest a widening regional conflict. Analysts should track increased activity by Iranian-backed proxy groups, attacks on US allied nations' infrastructure or forces, and the defensive measures or military buildups undertaken by Gulf nations, as these indicate the potential for broader regional destabilization."
       },
       {
-        "title": "Evolving US Stance on Iran's Nuclear Program",
-        "description": "The observation that America's 'Iran War' has overlooked the nuclear dimension, alongside the debate over the conflict's official designation, suggests a potential re-evaluation of US strategy. Watch for any renewed focus on Iran's nuclear capabilities, changes in diplomatic or military engagement, and the implications for international non-proliferation efforts."
+        "title": "Internal Political Stability in Iran",
+        "description": "Former President Rouhani's call for ending the war and the subsequent calls for his arrest highlight potential internal dissent and political pressure within Iran. Monitor for further public statements from influential figures, signs of public unrest or protests, and any shifts in leadership or policy within the Iranian government, as these could impact the regime's war strategy and stability."
+      },
+      {
+        "title": "Incidents Involving Advanced Military Technology",
+        "description": "The seizure of a US submarine drone by Iran underscores the role of advanced technology in this conflict. Analysts should watch for further incidents involving drones, cyberattacks, or other sophisticated military hardware, as these events can reveal new capabilities, vulnerabilities, and potentially trigger further escalations or intelligence-related confrontations."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-08T11:06:07.321693+00:00",
+  "last_watch_time": "2026-09-09T11:08:37.853885+00:00",
   "relevant_news": [
     {
-      "title": "Iran-backed Houthis attack four Saudi cities in expansion of Middle East war, 73 hurt - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles-2026-09-08/",
+      "title": "Iran Signals Readiness to Escalate Fight in Face of Rising U.S. Pressure - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 09, 2026 · 01:01 BRT",
+      "pub_date": "2026-09-09",
+      "pub_ts": 1788926467,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran and US hit tankers in biggest wave of attacks on shipping since war began - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-attacks-us-base-jordan-ships-near-hormuz-after-tankers-sunk-2026-09-09/",
       "source": "Reuters",
       "domain": "reuters.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 07, 2026 · 22:49 BRT",
-      "pub_date": "2026-09-07",
-      "pub_ts": 1788832140,
+      "published": "Sep 09, 2026 · 01:07 BRT",
+      "pub_date": "2026-09-09",
+      "pub_ts": 1788926820,
       "summary": "",
       "tags": [
         "extracted",
@@ -6763,18 +6786,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Hormuz traffic slows after Iran threatens retaliation for US attacks - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/hormuz-traffic-slows-after-iran-threatens-retaliation-us-attacks-2026-09-08/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 07, 2026 · 23:53 BRT",
-      "pub_date": "2026-09-07",
-      "pub_ts": 1788835980,
+      "title": "Iran sends wave of missiles toward U.S. base in Jordan after vowing escalation - The Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 09, 2026 · 06:36 BRT",
+      "pub_date": "2026-09-09",
+      "pub_ts": 1788946574,
       "summary": "",
       "tags": [
         "extracted",
-        "reuters.com"
+        "washingtonpost.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -6782,14 +6805,14 @@
       "sentiment_success": false
     },
     {
-      "title": "America’s Iran War Forgot About Nukes - Bloomberg.com",
-      "url": "https://www.bloomberg.com/opinion/articles/2026-09-08/trump-s-iran-war-forgot-about-nukes",
+      "title": "US Says It Destroyed Iran Tankers After Navy Ship Targeted - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-08/us-military-hit-targets-near-iran-s-kharg-island-fox-news-says",
       "source": "Bloomberg.com",
       "domain": "bloomberg.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Sep 08, 2026 · 01:00 BRT",
+      "published": "Sep 08, 2026 · 21:59 BRT",
       "pub_date": "2026-09-08",
-      "pub_ts": 1788840000,
+      "pub_ts": 1788915540,
       "summary": "",
       "tags": [
         "extracted",
@@ -6801,52 +6824,33 @@
       "sentiment_success": false
     },
     {
-      "title": "UAE says its energy exports will not be 'held hostage' by Iran war - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-builds-alternative-trade-energy-routes-after-iran-attacks-official-says-2026-09-07/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 07, 2026 · 10:13 BRT",
-      "pub_date": "2026-09-07",
-      "pub_ts": 1788786803,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran warns US energy assets in Gulf are vulnerable after latest clashes - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-announce-new-restricted-zone-gulf-coming-days-2026-09-07/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 07, 2026 · 03:57 BRT",
-      "pub_date": "2026-09-07",
-      "pub_ts": 1788764220,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Saudi Arabia Vows Retaliation After Houthi Attacks Injure Dozens - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/saudi-arabia-yemen-houthis-energy-attack.html",
+      "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 08, 2026 · 07:20 BRT",
+      "published": "Sep 09, 2026 · 04:51 BRT",
+      "pub_date": "2026-09-09",
+      "pub_ts": 1788940302,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "U.S. Hits 5 Iranian Oil Tankers, Citing Attempted Strikes on Warship - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html",
+      "source": "The New York Times",
+      "domain": "nytimes.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
+      "published": "Sep 08, 2026 · 19:13 BRT",
       "pub_date": "2026-09-08",
-      "pub_ts": 1788862812,
+      "pub_ts": 1788905584,
       "summary": "",
       "tags": [
         "extracted",
@@ -6859,9 +6863,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-08T11:06:09.388818+00:00",
-  "last_generated_date": "2026-09-08",
-  "last_generated_time": "2026-09-08T23:01:46.881918+00:00",
+  "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
+  "last_generated_date": "2026-09-09",
+  "last_generated_time": "2026-09-09T08:01:43.294063+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

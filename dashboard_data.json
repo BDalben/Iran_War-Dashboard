@@ -4719,7 +4719,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-08"
+      "pub_date": "2026-09-09"
     },
     "https://www.wsj.com/world/middle-east/iran-strikes-us-1d263f3f": {
       "summary": "",
@@ -6710,6 +6710,49 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.jpost.com/opinion/article-907970": {
+      "summary": "The Iran war has weakened Tehran, but Trump may struggle to secure a nuclear deal or reopen the Strait of Hormuz.",
+      "tags": [
+        "Israel",
+        "Benjamin Netanyahu",
+        "Iran",
+        "Donald Trump",
+        "strait of hormuz"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-09-09/brent-oil-hits-100-as-us-iran-war-shows-little-sign-of-abating": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-09/the-opening-trade-9-9-2026-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-09/us-hits-several-iran-oil-tankers-in-response-to-warship-attack": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6865,12 +6908,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T08:01:43.294063+00:00",
+  "last_generated_time": "2026-09-09T09:01:52.131476+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Brent Oil Hits $100 as US-Iran War Shows Little Sign of Abating - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFNXeG1vLWs2Umx4VlFMWF9sUnhudUlFSnp6REJ3UDIwTTlSN0ZvTEZMTW9rc3lmZUZNR0w1amxrazdvNUxLVkpDSC02d1FhVnk0UC1BSlBmOV9tWDYyRVA2RlZCdWlBdENRTHZZSXRmSGVDYVh6U3ltVk42SUhmTm1lRTZnWE9kc1dFcDJCTXFCOE1hV0Z6RnlXMGJKVUp5NWdXemJtMkFXS3lzVzZHTnJhVkd0OE0?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 08:11 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788952304,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East - nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHNCdG5udTk5WkFZT1g1Ml9kXy1zc1Myc0N0aVAtUHQwTlU3ZEVwZVE3X3oxb2YyWnZoaWhqZUN0T0JDbTVLaFlwRzc0a2ttYmJud3dSblgxN280UU9fNS1JaGlnb1VOT2EzblI1SmRGdk9OeFBBX3huYWZlSHlFV1ExdHo?oc=5",
@@ -11563,6 +11620,20 @@
     {
       "theme": "Aluminum",
       "articles": [
+        {
+          "title": "Trump’s Iran war leaves him struggling to find a way out - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00eER1Vk5zZld2Vkx6aFVKOTBMdTA4Z2MydmgzVEpyZkMzUm5DT2J5QTAyb1VUbnQ0ZV9EVUUyTW1kdVU5SlJRd2ZsSDREUVlUM0lSWVVRUQ?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 08:00 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788951600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Metals Fall From Record High in London as Mideast Tensions Flare - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ1ZDeWFaTGNfWFY4NUQ3RGV6RGxOdmRzcGlseGlRV1h0MWtNWENmR0swbmRMN05RcmhJS0NEb2lEY1lWeHZVbXZFX0Z5RzljUTd3U3Z2M05nX2FyNDR5MENqRG5oRW1xdjdpNi0yVVlBTk9XT3dBb2dwWUp1OVhqVHRRYzVoUC1qOF9wRmw4MWNPeE5OYUlIWFMwdnE1QkNkOHRuSGotOVNkT2J3cW1nVXc0M0c5dw?oc=5",

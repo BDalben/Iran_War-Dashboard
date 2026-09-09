@@ -6766,6 +6766,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.nytimes.com/2026/09/09/business/saudi-arabia-houthis-red-sea-oil-shipping.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6921,12 +6931,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T12:01:54.776499+00:00",
+  "last_generated_time": "2026-09-09T13:02:01.871174+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Saudi Arabia Runs Out of Easy Routes for Oil to Bypass Iran War - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV21kdlFZS0pSTkZWUl85WmZnU3BrYWZsd044REEzVmgxZG1ieS1uVkt3YjB3c1BOYVJSd1lFLUNCN2RWRFRfM2V6aGJkNFZLeXg2ZHJBNEJuTk81UDRGN0JyUVhPRjR4YlVaOGp3VG93Y3I2TFpYODFhdUZxMkNVZXBPckd0MEZINF9YQnZEQnJHNElZ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 12:30 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788967839,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Watch Brent Oil Hits $100 as US-Iran War Shows Little Sign of Abating | The Opening Trade 9/9/2026 - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWxZVmp0dE1CWVFtaW5aVnl6SWxmdVFnZWMyWVRHVHh0YndvQXRVUDV2aTBqbkxmeVZyakhSOTFzd0RvM0VxaFE5T1VwQjBOVmhNbzdTQzVWTmt6Y01kRTdsYVhoSkdYZy1WWkhTV2JIN05aaUQwVzhqTnJsVVNNbENsMEtFUTFK?oc=5",

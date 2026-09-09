@@ -6826,6 +6826,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.reuters.com/world/asia-pacific/pakistan-warns-iran-rein-houthis-riyadh-strikes-back-2026-09-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6981,7 +6991,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T15:01:56.851721+00:00",
+  "last_generated_time": "2026-09-09T16:01:35.376927+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7052,6 +7062,20 @@
           "published": "Sep 09, 2026 · 08:11 BRT",
           "pub_date": "2026-09-09",
           "pub_ts": 1788952304,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US Hits Several Iran Oil Tankers in Response to Warship Attack - Bloomberg",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSzZjTllMbmp5eWZmM2tpM3ZZc09CS3laNzFnMVF1bTRZUTd0cW84Y1VOd1hXZUsweGRaQXlmSzVsaW1IVFFyVGR4OHdsUjdtclpzTHpVSzUzNjdDOVBHZXFTeTlWVi1kQkVTajNibWdiV2pKR2M5N01DODR0eTJ6UWdoS1dOU3ktMlBLclBWNDJieHNiQlpJT3BYMVJXSzI5N0ZBQUcwNWJBWG1QbjhxVWE4TQ?oc=5",
+          "source": "Bloomberg",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 06:18 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788945483,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

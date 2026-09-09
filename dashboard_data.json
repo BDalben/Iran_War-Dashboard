@@ -6846,6 +6846,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.washingtonpost.com/opinions/2026/09/09/trump-called-iran-conflict-small-potatoes-war-is-anything/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -7001,7 +7021,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T17:01:55.285182+00:00",
+  "last_generated_time": "2026-09-09T18:01:41.808171+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

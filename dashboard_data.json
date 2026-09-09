@@ -6753,6 +6753,19 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-908122": {
+      "summary": "While Iran has flirted with reconciliation with the US at times, it has also sought to position itself alongside countries that want a new world order.",
+      "tags": [
+        "Iran",
+        "Russia",
+        "China",
+        "Ukraine",
+        "Ayatollah Ali Khamenei"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6908,12 +6921,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T10:02:07.211178+00:00",
+  "last_generated_time": "2026-09-09T11:01:46.770012+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Watch Brent Oil Hits $100 as US-Iran War Shows Little Sign of Abating | The Opening Trade 9/9/2026 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWxZVmp0dE1CWVFtaW5aVnl6SWxmdVFnZWMyWVRHVHh0YndvQXRVUDV2aTBqbkxmeVZyakhSOTFzd0RvM0VxaFE5T1VwQjBOVmhNbzdTQzVWTmt6Y01kRTdsYVhoSkdYZy1WWkhTV2JIN05aaUQwVzhqTnJsVVNNbENsMEtFUTFK?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 08:40 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788954048,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Brent Oil Hits $100 as US-Iran War Shows Little Sign of Abating - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUFNXeG1vLWs2Umx4VlFMWF9sUnhudUlFSnp6REJ3UDIwTTlSN0ZvTEZMTW9rc3lmZUZNR0w1amxrazdvNUxLVkpDSC02d1FhVnk0UC1BSlBmOV9tWDYyRVA2RlZCdWlBdENRTHZZSXRmSGVDYVh6U3ltVk42SUhmTm1lRTZnWE9kc1dFcDJCTXFCOE1hV0Z6RnlXMGJKVUp5NWdXemJtMkFXS3lzVzZHTnJhVkd0OE0?oc=5",

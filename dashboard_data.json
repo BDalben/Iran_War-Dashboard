@@ -6806,6 +6806,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.reuters.com/business/energy/us-eia-hikes-oil-price-forecasts-iran-war-drains-global-stockpile-2026-09-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6961,12 +6981,40 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T14:02:03.363161+00:00",
+  "last_generated_time": "2026-09-09T15:01:56.851721+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHpwc09tV09ycWstSVJVekIxSmNUSzdkUFVxTjRzRTJ0V2szUkpNbzRrdnEyMzhfUXJyNHgzQUN6SjVKVHFmNEZqT3NWM1U5Nm5ZRWFQdk9KT29DXzg5YTlOQVEyVWNRMTFVcFpUdWhuUWdfVTR1aHMwZ29mbWJGRHl5SnJNdmp1bkU2R0dGWXFHY2paZlJGQWFPR3R2S3ZiV19rTTVFVHJlSU1PRkFHeUNaODJ3emVW?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 14:45 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788975943,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Watch Crude Hits $100 as US-Iran War Escalates With Tankers Targeted - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVRKc19hSkR1Qng3Sm40enhtWXdlaC1jd1JHN1kxTVRZZ25IOXhNYUR2aWFaX3pMUTB1bF9QbGNxZy1nZlFBMW5sLXZGT2hEdkQtczU0Yjh2VkJlN0ZqbkNGa1pWWHRKMTVDUXExaEh1cHNjeWNIeERUNkJvaFRWdzdNLVR4cTBhN1d5VzJqYU1KRV83cjlBdGtR?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 13:55 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788972952,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Saudi Arabia Runs Out of Easy Routes for Oil to Bypass Iran War - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNV21kdlFZS0pSTkZWUl85WmZnU3BrYWZsd044REEzVmgxZG1ieS1uVkt3YjB3c1BOYVJSd1lFLUNCN2RWRFRfM2V6aGJkNFZLeXg2ZHJBNEJuTk81UDRGN0JyUVhPRjR4YlVaOGp3VG93Y3I2TFpYODFhdUZxMkNVZXBPckd0MEZINF9YQnZEQnJHNElZ?oc=5",
@@ -10477,6 +10525,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw?oc=5",
+          "source": "nytimes.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 14:23 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788974601,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How ‘Hypermilers’ Are Trying to Beat High Gas Prices - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QTUoxMjE4eE81Vm4wRW5VR1AtZl8ydWgtNHZ1NDEzYUR5el9CaGsxWUZ2bG4zSTQ5Rng5MU1vQXJzbENBaUU1Q0lKT25vNmJrZVphbnBmcXNJVVlmYjlSU1U0ZndZVjF1S2xhZkpuVHdtdjFUalE?oc=5",

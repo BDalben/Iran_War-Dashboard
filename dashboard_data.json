@@ -6410,7 +6410,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-07"
+      "pub_date": "2026-09-08"
     },
     "https://www.bloomberg.com/opinion/articles/2026-09-08/trump-s-iran-war-forgot-about-nukes": {
       "summary": "",
@@ -6627,6 +6627,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-08"
+    },
+    "https://www.reuters.com/business/energy/oil-jumps-1-early-trade-after-iran-launches-missiles-jordan-2026-09-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,
@@ -6778,12 +6788,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-08T11:06:09.388818+00:00",
   "last_generated_date": "2026-09-08",
-  "last_generated_time": "2026-09-08T21:01:55.850939+00:00",
+  "last_generated_time": "2026-09-08T22:01:44.544476+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Climbs Toward $100 a Barrel Following Houthi Attacks - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54N3UzSlJaTHRYV1g3cTYtWFctbWtEdGU5eWVBTWlEa0drQkxabDU2VTRtTGJ5OHA1QndlRzB4QS11cWNCcmE0UThzSUNDSVZFQUlYWmtieklycEpOUDVuV0NFREZOaGNFRVZkT05obUljbDV1ZnlJ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 08, 2026 · 17:39 BRT",
+          "pub_date": "2026-09-08",
+          "pub_ts": 1788899954,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Dangote expects fuel shortages beyond Iran war as it spurs expansion - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdGIzV0F3YktKRDRhMnNHdk8xUjg3MEpaOEdfX1BYUnFNNkxyOXo0eWdsaXJDSnRlTGNDa19nQkdjUWl6VGpkQy1Ra3FaQ21hU2FjOGQ2amp2TkNQN0xXdUZzYlpNTWRneXNfS1lDYnotcVZtaVBmSjJsSXFRZTRybUdENlduMFhSZjRYVWRfYmk0NkhvWUtPNF9KQVFocFAxODVmR1NCdk1IR0lIWVVET1UxRXV2UEFH?oc=5",

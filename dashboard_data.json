@@ -6637,6 +6637,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-08"
+    },
+    "https://www.cbc.ca/news/world/us-military-5-oil-tankers-iran-strikes-jordan-9.7336574": {
+      "summary": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to recent attacks on its warships, and Tehran says it hit back at American targets in Jordan, in the latest burst of back-and-forth strikes in a more than six-month-old war.",
+      "tags": [
+        "extracted",
+        "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,
@@ -11439,6 +11449,20 @@
           "published": "Sep 08, 2026 · 06:03 BRT",
           "pub_date": "2026-09-08",
           "pub_ts": 1788858231,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "US developing strategy for post-war Iran, expansion of Abraham Accords - The Jerusalem Post",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pNE1NdGtqV0xsVlJ2TlZVYWZ0T2JpSks0ZnZTUWhnS3o5ZGFmbjB0M0VKckNZazg4WFF4ZW1rU1lMLXlwSmpHbEFRV3oyd24yUjloN0hERnRjakR4?oc=5",
+          "source": "The Jerusalem Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 05, 2026 · 03:26 BRT",
+          "pub_date": "2026-09-05",
+          "pub_ts": 1788589604,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

@@ -4822,7 +4822,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-02"
+      "pub_date": "2026-09-01"
     },
     "https://www.nytimes.com/video/us/politics/100000011111838/the-navys-logistical-nightmare-in-the-iran-war.html": {
       "summary": "",
@@ -6607,6 +6607,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-08"
+    },
+    "https://www.nytimes.com/2026/09/08/world/middleeast/us-strikes-iran-tankers.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
     }
   },
   "last_digest_success": true,
@@ -6758,7 +6778,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-08T11:06:09.388818+00:00",
   "last_generated_date": "2026-09-08",
-  "last_generated_time": "2026-09-08T20:01:39.938439+00:00",
+  "last_generated_time": "2026-09-08T21:01:55.850939+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

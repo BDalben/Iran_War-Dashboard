@@ -6836,6 +6836,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-iran-war-will-end-right-after-us-midterm-elections-2026-09-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6991,7 +7001,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T16:01:35.376927+00:00",
+  "last_generated_time": "2026-09-09T17:01:55.285182+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10096,6 +10106,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war - axios.com",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",
+          "source": "axios.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 16:38 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788982699,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Iran war drives $100 billion in extra energy costs for U.S. consumers - Axios",
           "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vZzRLZG1TNGE3NVpUV0NHSkNKRloxaGkxOWxvb0JEcDFrcWxDaFVnTnpqNXlZNi1OU0RzLTI4S3hkclBEVWhZOThkOUF0eU5RbHFtcmRLQTgzUzFVcU5sS2UtYUNaZXM0RmtWSlpOTy1HQU1tdXc?oc=5",

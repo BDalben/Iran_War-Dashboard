@@ -6513,7 +6513,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-09"
+      "pub_date": "2026-09-08"
     },
     "https://www.reuters.com/business/aerospace-defense/uk-publishes-legislation-tougher-sanctions-iran-2026-09-08/": {
       "summary": "",
@@ -6677,6 +6677,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.reuters.com/world/middle-east/oil-vessel-transit-costs-through-hormuz-escalated-after-iran-war-enoc-exec-says-2026-09-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.jpost.com/middle-east/iran-news/2026-09-09/live-updates-908017": {
+      "summary": "Dwindling oil revenue driving Iran into deeper economic crisis • IRGC confirms Iran attacked Jordanian US military base • Shin Bet, Police dismantle broad West Bank Hamas network",
+      "tags": [
+        "Benjamin Netanyahu",
+        "Hamas",
+        "Hezbollah",
+        "Iran",
+        "oil"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -6835,6 +6868,34 @@
       "theme": "Oil",
       "articles": [
         {
+          "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East - nytimes.com",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaHNCdG5udTk5WkFZT1g1Ml9kXy1zc1Myc0N0aVAtUHQwTlU3ZEVwZVE3X3oxb2YyWnZoaWhqZUN0T0JDbTVLaFlwRzc0a2ttYmJud3dSblgxN280UU9fNS1JaGlnb1VOT2EzblI1SmRGdk9OeFBBX3huYWZlSHlFV1ExdHo?oc=5",
+          "source": "nytimes.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 04:33 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788939232,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil vessel transit costs through Hormuz escalated after Iran war, ENOC exec says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdHlPZEpNUC1MaWVNQWdvWmhnbFNmQTRITnd3T0RaVVhJUVJuUHZQMzAzLWcyWm9pS2l0dDd5aEFYWjREcnlQU3NTTGVMVk1OZVgteXNNdUlKYjJ0dnhSak9KRDhGNUh3UTgzcGI2SGU4cHdEa3VtaFhpZHZkOXJ3Sm8xYjZlOHgwdlY4T2dZUHczZ3ZCSmRPUGlTQjhRZmJscFNiNjNTYURvaVpvZEZpa2JJa0Jnakg2NGJsWlBpNWNUQkFoTVBJQ3JYZ1pDUQ?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 03:19 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788934740,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
           "title": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5",
           "source": "Reuters",
@@ -6857,6 +6918,20 @@
           "published": "Sep 09, 2026 · 01:01 BRT",
           "pub_date": "2026-09-09",
           "pub_ts": 1788926466,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil nears $100 as fresh Middle East strikes raise supply risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUzVwcURFOW5QT2VTVW5YdFV2a2NPRGh1YkFoaTV2VUE0MXhES2gwR1ptSldNN29OZUZOLUQ2NlFUZUNpYjRFV25nTTR5cW03ZEFmX1BzMzViNGI5VXhWMWhtZHU1SDNxQ1Iyc2lDcEZOYnVpU3JMUVE4Uk9IUkVyYUdjd2ppV01LbDZESEQzWDBaZHZyOEpCem9yRkw0YUhnTVpuSVlzc01jVWszdVJSWg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 08, 2026 · 21:23 BRT",
+          "pub_date": "2026-09-08",
+          "pub_ts": 1788913380,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

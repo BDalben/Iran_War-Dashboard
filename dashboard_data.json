@@ -6626,7 +6626,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-08"
+      "pub_date": "2026-09-09"
     },
     "https://www.reuters.com/business/energy/oil-jumps-1-early-trade-after-iran-launches-missiles-jordan-2026-09-09/": {
       "summary": "",
@@ -6643,6 +6643,16 @@
       "tags": [
         "extracted",
         "cbc.ca"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-08"
+    },
+    "https://www.reuters.com/business/energy/us-military-says-it-destroyed-five-iranian-oil-carriers-after-attempted-missile-2026-09-08/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

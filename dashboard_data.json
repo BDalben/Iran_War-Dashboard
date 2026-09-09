@@ -6866,6 +6866,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.reuters.com/business/finance/ecb-set-hike-iran-war-fuels-fresh-inflation-fears-2026-09-09/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,
@@ -7021,7 +7031,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-09T11:08:38.260166+00:00",
   "last_generated_date": "2026-09-09",
-  "last_generated_time": "2026-09-09T19:01:37.410890+00:00",
+  "last_generated_time": "2026-09-09T20:01:39.299635+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -7064,6 +7074,20 @@
           "published": "Sep 09, 2026 · 12:30 BRT",
           "pub_date": "2026-09-09",
           "pub_ts": 1788967839,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil pushes past $100 as wave of US-Iran attacks exposes dwindling safety net - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWk83eHNVQXFWUEdoZGxYdmRpdnhuMFFKM3JfMkRRNDMxWmM0c1JPVmpkRWhQVVBvX0VLdjlhZ296NHpDVDdUNS0xZl9jRXJEeWZ1N1ZWSnZGUjVueEc2MzdjNTAwUTNlUFEtZWZ5el9Jc3dBYjJzVzN6R080aFJLLVlYWEVqUTU0WHRGX1hMSXQ3cnFpaVNHeHM3enRkYjZDcEUyb0Vic1JhMExzU1BCZVBvZlh2dExCZ3dRTVBlNWxNZw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 10:56 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788962171,
           "summary": "",
           "tags": [],
           "sentiment": "neutral",

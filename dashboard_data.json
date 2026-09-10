@@ -7234,6 +7234,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7397,7 +7407,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T18:02:03.518846+00:00",
+  "last_generated_time": "2026-09-10T19:01:58.123916+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

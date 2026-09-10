@@ -6968,6 +6968,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-10/iran-said-to-be-ready-to-escalate-war-with-us-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -11260,6 +11270,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "AirBaltic bond yields soar as embattled carrier faces crunch creditor meeting - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1otMG1tZWlubHh4U3BBT0xHbnRXaVZfV3N0OXl3U0JNS3VPTk9pZkt6MlkxLWpMcDFXTGo2T2xCaFhwandUcWFsWnNLWGhBRjBVbmNnTi1wX2VSbGE5R2VnZUFjNVRjU3pucTRJQ3dLNGw2c1hSOFNmckxldDJ2UzQ3dW1SOTdpVTR5T3RYUGJBck54U2R5VGxRZDhDcTRsZEoyZFN6RElWdXpZc2lvV3h6S0FNMDZuRjAxU3NIM0RBTzY3d1E?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 02:06 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789016760,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "How airlines have hedged against fuel price increases - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcVVmODR3enJZdXNPTVVBQmpJRjFueXBoclVMWWJNdVRuazdoMnZDb0ZJcEFMMjBLOUtmRm9WcHdTRUtaclluUUR0LV9IYWh4SDgyVkx1WVBCNTFJcE9aU0dnSThENEZNSkZoU2l5bHNvaGF2Vm8tcDlIbV84a05hUkFMMHJUVC1rdzVQQ3M3Q05JakllckFtaXdZRV9SZlRGd3RKWTktaWk?oc=5",

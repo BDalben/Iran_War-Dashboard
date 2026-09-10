@@ -6775,7 +6775,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-09"
+      "pub_date": "2026-09-10"
     },
     "https://www.bloomberg.com/news/articles/2026-09-09/iran-ready-for-more-intense-war-and-won-t-relent-official-says?srnd=phx-india": {
       "summary": "",
@@ -7094,6 +7094,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-10/ecb-lifts-rates-for-second-time-as-iran-war-drives-inflation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/business/view-ecb-hikes-rates-iran-war-adds-inflation-angst-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.wsj.com/world/middle-east/yemens-iran-backed-houthis-sweep-toward-strategic-bab-al-mandeb-c1786d79": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7257,7 +7287,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T09:04:20.537531+00:00",
+  "last_generated_time": "2026-09-10T10:02:10.290741+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

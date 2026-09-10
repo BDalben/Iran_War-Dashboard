@@ -6855,7 +6855,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-09"
+      "pub_date": "2026-09-10"
     },
     "https://www.nytimes.com/2026/09/09/us/politics/iran-strikes-jordan-base.html": {
       "summary": "",
@@ -6928,6 +6928,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-09"
+    },
+    "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,

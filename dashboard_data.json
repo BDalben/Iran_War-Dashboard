@@ -7144,6 +7144,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.nytimes.com/2026/09/10/climate/global-coal-demand-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.wsj.com/business/energy-oil/opec-further-cuts-this-years-oil-demand-growth-forecast-79ed23ad": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7307,12 +7327,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T12:02:06.622706+00:00",
+  "last_generated_time": "2026-09-10T13:02:06.579497+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Saudi Oil Output Slumps as Iran War, Houthi Threats Disrupt Vital Export Routes - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGVSeFB4NmpTTklFR05YQVh0MTFsMjFUelRQMU93OWFreE1kMnlIanJiMmdfWm91amJrVHhvWU9aQktFNHE0LWhoZElBc3NDQy1NOEdyUmoydjJwMWhkN3owQzBxbHRUSl8zdlFab1RaaDVCQ2duWkdEUS10YzF4NjBFMnpyYnI2MEdmaHI3eDR0Mm9BeHM0clpTX3RDU2xZSjk3WW9VMA?oc=5",
+          "source": "WSJ",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 11:44 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789051440,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post",
           "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw?oc=5",
@@ -10935,6 +10969,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "The Iran War Is Pushing Global Coal Use to Record Highs - The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEltMzBXTERWUml2Z2Q0d0poZFFJTU04WWc0Tl92TldWZFRoZFo2YjdHd29ScHZmTHRESGRFcmFhQTZyblpvYW9BRjFxalpCdkR4bEtUWmRxZ0VXNnBFOHVicHVvNi1CMjJSczJiUGxiU3d0THVGSndkT2Rnd0k5dQ?oc=5",
+          "source": "The New York Times",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 12:10 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789053056,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Qatar in Talks to Buy US LNG With Specter of Lengthy War Looming - bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1hhLXZMQ1k2dnRlMzVYQklTVjFVMnlmTU9XclEzWXoxdFNvbXRhUHk3bTlFTHlCQWY4bHBxbHhYWUN4dGRpaTlfSUxSTW4zWlJTZVZ6cnV2QkpSQ2gwcGhpdUl0VWcwYmZfTVFBYWlWX2loalJ3bHFIdWVMbWRnQlRZaHd1MkZKYlFkSEZGZXV5anh3Y3lLVFE4T3VZRkUxbXpSWXBQWFZDUThXUmlvOHRmTzBMQQ?oc=5",

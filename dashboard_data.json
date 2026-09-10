@@ -6659,7 +6659,7 @@
       "pub_date": "2026-09-08"
     },
     "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html": {
-      "summary": "",
+      "summary": "The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6912,6 +6912,18 @@
       "tags": [
         "extracted",
         "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.jpost.com/middle-east/iran-news/article-908174": {
+      "summary": "Further details regarding the strikes, including the extent of the damage or potential casualties, were not immediately available.",
+      "tags": [
+        "Iran",
+        "iran israel war",
+        "Middle East",
+        "War"
       ],
       "sentiment": "neutral",
       "sentiment_success": false,

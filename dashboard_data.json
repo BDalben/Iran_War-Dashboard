@@ -6895,7 +6895,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-09"
+      "pub_date": "2026-09-10"
     },
     "https://www.wsj.com/world/middle-east/with-close-calls-on-u-s-warships-iran-shows-new-appetite-for-escalation-e2758bbd": {
       "summary": "",
@@ -7020,6 +7020,26 @@
       "pub_date": "2026-09-09"
     },
     "https://www.bloomberg.com/news/articles/2026-09-09/latest-oil-market-news-and-analysis-for-sept-10": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/world/africa/south-africas-current-account-records-q2-deficit-iran-war-drives-up-import-costs-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-09/iran-ready-for-more-intense-war-and-won-t-relent-official-says": {
       "summary": "",
       "tags": [
         "extracted",
@@ -7189,6 +7209,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQejRybzlicFo4YXVQU0M0YjRKc1ZIRGF0VXdTNW1tSlA1Sk42WkRYcnZsN3VOMHdUeWx1YzJrZmM1YkZ1MDBiQlFUdjVsdFpveHhhMDVfZnI0UmFGVzJuV0dzQnk1dDN4NlhMcVI3RFZjeTE3aEY3UkpkMlJWdGV3Z0otdXM1bjRMejExVXZySDcyYjNia2JCZTR1OHhZdkt1QTRESy1rTVpDSVBpTFNreDl4dw?oc=5",
+          "source": "The Washington Post",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 06:20 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789032042,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump says Iran war to end after US midterm elections, threatens to attack Pickaxe Mountain - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1VBYmFiQnhuQWRpWDFRNjQ3ZzBFUTEzUmxneFZQTmtfOHducTVIZlU3LXFwRjVSbS1EYTNjMVY1dGlzODdfblBPSzFqWm90bWhfeFBUVVlDdjN2YUFoS1VNekY4U1VHcW1WTXQzS1ZTYjI2YzZ1OFFaZzJMZm9DTEpWY25jMlJsOHNUYklSbkR3Z2pNc1ZUcUNhN3VnWHdIV2U5RklKVldodktsWE5rczRlMVFfZzJZV3VJSzlhdEpRV1VzLXc2Sw?oc=5",

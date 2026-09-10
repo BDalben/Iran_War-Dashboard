@@ -6977,6 +6977,36 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
+      "pub_date": "2026-09-09"
+    },
+    "https://www.reuters.com/world/middle-east/trump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/world/trumps-iran-campaign-echoes-post-911-forever-wars-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/world/asia-pacific/how-billion-dollar-sanctions-dodge-kept-chinese-goods-flowing-iran-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
       "pub_date": "2026-09-10"
     }
   },
@@ -7139,6 +7169,34 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Trump says Iran war to end after US midterm elections, threatens to attack Pickaxe Mountain - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX1VBYmFiQnhuQWRpWDFRNjQ3ZzBFUTEzUmxneFZQTmtfOHducTVIZlU3LXFwRjVSbS1EYTNjMVY1dGlzODdfblBPSzFqWm90bWhfeFBUVVlDdjN2YUFoS1VNekY4U1VHcW1WTXQzS1ZTYjI2YzZ1OFFaZzJMZm9DTEpWY25jMlJsOHNUYklSbkR3Z2pNc1ZUcUNhN3VnWHdIV2U5RklKVldodktsWE5rczRlMVFfZzJZV3VJSzlhdEpRV1VzLXc2Sw?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 03:13 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789020780,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
+        {
+          "title": "Oil Extends Rally as Iran Says Ready for More Intense Conflict - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVy1GQmhVUF91Y1pFeG02SF9pOVZ4NklBelE2YjMxNHdaTU1reElSTHJMZmpIX1RscGRQNC13aklYbU9lRnJZV1R0T1lUNlVDWkVWN0FwRVV2dE94X3lGRmVHUWo1V3R5VWhFZHlCcjFGaWh6SlZlcExJeFN1ZzZwX0ZzV3BDc3l1djJrNElsaEYya01uRnh1a243RlpTOEU?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 09, 2026 · 19:04 BRT",
+          "pub_date": "2026-09-09",
+          "pub_ts": 1788991496,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "US EIA hikes oil price forecasts as Iran war drains global stockpile - Reuters",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdHpwc09tV09ycWstSVJVekIxSmNUSzdkUFVxTjRzRTJ0V2szUkpNbzRrdnEyMzhfUXJyNHgzQUN6SjVKVHFmNEZqT3NWM1U5Nm5ZRWFQdk9KT29DXzg5YTlOQVEyVWNRMTFVcFpUdWhuUWdfVTR1aHMwZ29mbWJGRHl5SnJNdmp1bkU2R0dGWXFHY2paZlJGQWFPR3R2S3ZiV19rTTVFVHJlSU1PRkFHeUNaODJ3emVW?oc=5",

@@ -7204,6 +7204,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/world/middle-east/us-slaps-new-sanctions-networks-aiding-irans-proxies-middle-east-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.timesofisrael.com/liveblog_entry/skeptical-vance-said-to-have-sought-direct-intel-from-us-generals-on-state-of-iran-war/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7367,7 +7397,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T17:02:01.933173+00:00",
+  "last_generated_time": "2026-09-10T18:02:03.518846+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -11023,6 +11053,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Trump on Iran war regrets: \"You can always question yourself a little bit\" - axios.com",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pc19CZFZSSS1aYjAyZUhWb0RaQzIyVE9tUTFseEtBZllmdC1yOW5vQzZDVkZ1Rnp5NVhqMF92SXFwUU1ub1N1WkFlbF9YT0laTXBDbFhDVHQwcjkya0FXa2NSb1ZJeC14SmJfYjNJSjRuNHNtQ0c5NXpKdw?oc=5",
+          "source": "axios.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 16:52 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789069974,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "The Iran War Is Pushing Global Coal Use to Record Highs - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUEltMzBXTERWUml2Z2Q0d0poZFFJTU04WWc0Tl92TldWZFRoZFo2YjdHd29ScHZmTHRESGRFcmFhQTZyblpvYW9BRjFxalpCdkR4bEtUWmRxZ0VXNnBFOHVicHVvNi1CMjJSczJiUGxiU3d0THVGSndkT2Rnd0k5dQ?oc=5",

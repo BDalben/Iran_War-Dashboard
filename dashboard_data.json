@@ -6696,7 +6696,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-09"
+      "pub_date": "2026-09-10"
     },
     "https://www.jpost.com/middle-east/iran-news/2026-09-09/live-updates-908017": {
       "summary": "Dwindling oil revenue driving Iran into deeper economic crisis • IRGC confirms Iran attacked Jordanian US military base • Shin Bet, Police dismantle broad West Bank Hamas network",
@@ -6938,6 +6938,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.washingtonpost.com/politics/2026/09/09/oil-price-spike-iran-attacks-intrudes-gops-midterm-convention/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-10/ecb-to-hike-interest-rates-again-as-iran-war-fans-inflation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/world/trump-says-activity-seen-irans-pickaxe-mountain-urges-tehran-not-get-cute-2026-09-10/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-09"
     }
   },
   "last_digest_success": true,

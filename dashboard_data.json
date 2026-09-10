@@ -7194,6 +7194,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.axios.com/2026/09/10/trump-iran-war-regrets-fox-news-dallas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7357,7 +7367,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T16:01:53.583710+00:00",
+  "last_generated_time": "2026-09-10T17:02:01.933173+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

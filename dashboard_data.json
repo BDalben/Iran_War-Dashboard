@@ -7124,6 +7124,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-10/ecb-hikes-interest-rates-for-second-time-since-iran-war-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7287,7 +7297,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T10:02:10.290741+00:00",
+  "last_generated_time": "2026-09-10T11:02:05.138826+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
@@ -10915,6 +10925,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "Qatar in Talks to Buy US LNG With Specter of Lengthy War Looming - bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa1hhLXZMQ1k2dnRlMzVYQklTVjFVMnlmTU9XclEzWXoxdFNvbXRhUHk3bTlFTHlCQWY4bHBxbHhYWUN4dGRpaTlfSUxSTW4zWlJTZVZ6cnV2QkpSQ2gwcGhpdUl0VWcwYmZfTVFBYWlWX2loalJ3bHFIdWVMbWRnQlRZaHd1MkZKYlFkSEZGZXV5anh3Y3lLVFE4T3VZRkUxbXpSWXBQWFZDUThXUmlvOHRmTzBMQQ?oc=5",
+          "source": "bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 08:44 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789040664,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump’s Midterm Pitch Clouded by Iran War and Canada Tariffs - nytimes.com",
           "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW5SZG5jQ3Z2STdOUDVUMXh1Vm9pWTNtM0gzTmE5eUNjMkxESklVUlpsejZ1WEtSTTBzcWE4YkZuck84RlBIelVWSnlQMHJQNHoxaTB6cS1YRkdvM1dOTmFMamkzME45UUdpQUk4MTUyTmFqWG1uZFF1eTc2WUdXbEtVSGp2Zw?oc=5",

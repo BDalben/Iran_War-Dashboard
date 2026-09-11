@@ -7313,7 +7313,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.reuters.com/video/watch/idRW192611092026RP1/": {
       "summary": "",
@@ -7497,6 +7497,39 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.jpost.com/israel-news/defense-news/article-908276": {
+      "summary": "With China blocked by US from rapidly resupplying Iran’s ballistic missile materials, Zamir sees a shifting threat landscape across Israel’s fronts.",
+      "tags": [
+        "Hamas",
+        "Hezbollah",
+        "IDF",
+        "Iran",
+        "West Bank"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.washingtonpost.com/business/2026/09/11/diesel-price-hits-6-record-high-amid-war-with-iran/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/gulf-states-may-meet-iran-next-week-to-discuss-future-of-hormuz": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -7652,7 +7685,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
   "last_generated_date": "2026-09-11",
-  "last_generated_time": "2026-09-11T09:01:45.913889+00:00",
+  "last_generated_time": "2026-09-11T10:01:55.300429+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

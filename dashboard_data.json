@@ -7313,7 +7313,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-11"
+      "pub_date": "2026-09-10"
     },
     "https://www.reuters.com/video/watch/idRW192611092026RP1/": {
       "summary": "",
@@ -7347,6 +7347,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/berkeley-warns-of-iran-war-impact-calls-for-stamp-duty-reform": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.nytimes.com/2026/09/11/world/asia/brics-meeting-summit-delhi.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/vance-strikes-populist-tone-woos-disaffected-voters-in-keynote": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.ft.com/content/918858ee-e771-4448-8fad-cfaf808c7011?syn-25a6b1a6=1": {
+      "summary": "UAE pressing ahead with expansion plans for flight hub despite the Iran war",
+      "tags": [
+        "extracted",
+        "ft.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -11787,6 +11827,20 @@
     {
       "theme": "Jet Fuel",
       "articles": [
+        {
+          "title": "AirBaltic postpones key meeting of bondholders - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOLWNOTkpyenp5dHNNU2sxNkp2WFF5QWtNV2l0NVlrYXdlcElGUkpiWUFydkQ4NVVfSUtuQUtqZVc0SjFGWmd4R3ktVW84Q2RfaUpUazl6a19FV1JGNTd2VXpUQmxvakxzR0hzMGx1TXNEcV9Sd0VkbnUyUDh4MFJCOFJzYzFPaXNqNGxoM1dTNW5xVHQ0bF9fdkJRZGE?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 04:06 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789110387,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "AirBaltic bond yields soar as embattled carrier faces crunch creditor meeting - Reuters",
           "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN1otMG1tZWlubHh4U3BBT0xHbnRXaVZfV3N0OXl3U0JNS3VPTk9pZkt6MlkxLWpMcDFXTGo2T2xCaFhwandUcWFsWnNLWGhBRjBVbmNnTi1wX2VSbGE5R2VnZUFjNVRjU3pucTRJQ3dLNGw2c1hSOFNmckxldDJ2UzQ3dW1SOTdpVTR5T3RYUGJBck54U2R5VGxRZDhDcTRsZEoyZFN6RElWdXpZc2lvV3h6S0FNMDZuRjAxU3NIM0RBTzY3d1E?oc=5",

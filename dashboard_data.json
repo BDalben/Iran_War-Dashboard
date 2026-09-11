@@ -7387,6 +7387,46 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.reuters.com/world/middle-east/iran-backed-houthis-reach-yemens-dhubab-bab-el-mandeb-strait-sources-say-2026-09-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.reuters.com/business/energy/china-limits-fuel-price-increases-third-time-since-iran-war-began-2026-09-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/iea-warns-oil-demand-may-have-to-fall-further-as-iran-war-drags": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/regardless-of-the-iran-war-and-kevin-warsh-high-yields-are-here-to-stay": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -11234,6 +11274,20 @@
     {
       "theme": "LNG",
       "articles": [
+        {
+          "title": "China limits fuel price increases for third time since Iran war began - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUmpXTGttQmVvNW9zcDMzaG5tN2VFNkZsSlRLZWdqbXRwNlh5cDFQYTNXQTJmU3BqSjN5WV85azhlblhJVVFkcG1nRkJTSkNZcEhpd3BhbXp2cWtSZFlMLW9yLTg2dEgzcWZ1RmNOTGNFZ2ZRNFBJMEtOODRTemdLUmpDR2NlRHVKeVhrc3czdmg4eDhrYVdoYmlKRDRldFZKcWloUUMzYUk4ZVdSWkR6d1dudDNEem5P?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 05:31 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789115487,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Trump on Iran war regrets: \"You can always question yourself a little bit\" - axios.com",
           "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pc19CZFZSSS1aYjAyZUhWb0RaQzIyVE9tUTFseEtBZllmdC1yOW5vQzZDVkZ1Rnp5NVhqMF92SXFwUU1ub1N1WkFlbF9YT0laTXBDbFhDVHQwcjkya0FXa2NSb1ZJeC14SmJfYjNJSjRuNHNtQ0c5NXpKdw?oc=5",

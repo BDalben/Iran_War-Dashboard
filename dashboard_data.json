@@ -5950,7 +5950,7 @@
       "pub_date": "2026-09-05"
     },
     "https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html": {
-      "summary": "",
+      "summary": "The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -6808,7 +6808,7 @@
       "pub_date": "2026-09-09"
     },
     "https://www.nytimes.com/2026/09/09/business/canada-iran-war-trump-midterms.html": {
-      "summary": "",
+      "summary": "A worsening trade war and a spike in oil prices could create new economic risks as the president prepares to rally Republicans for the midterms.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -7264,6 +7264,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7427,7 +7437,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T21:02:02.204913+00:00",
+  "last_generated_time": "2026-09-10T22:01:51.379832+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

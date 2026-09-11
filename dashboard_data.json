@@ -7437,134 +7437,102 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
-    }
-  },
-  "last_digest_success": true,
-  "last_digest_time": "2026-09-10T12:12:22.802710+00:00",
-  "digest": {
-    "digest": "The ongoing conflict between the United States and Iran has seen a significant escalation, marked by tit-for-tat attacks on shipping in the Strait of Hormuz and the Red Sea. President Trump has repeatedly stated his expectation for the war to conclude shortly after the U.S. midterm elections, suggesting Iran's actions are aimed at influencing the vote. However, top advisors have privately warned of a potentially protracted conflict extending through Trump's term. The hostilities have directly impacted global energy markets, with Brent crude oil prices hovering above $100 a barrel due to disrupted supply routes. This has also fueled inflation fears, prompting the European Central Bank to consider further interest rate hikes. The conflict has expanded to include clashes in Yemen involving Iran-backed Houthis, who are advancing on the Bab el-Mandeb Strait, a critical global shipping lane. The U.S. has adopted a strategy of retaliating by sinking Iranian oil tankers, a tactic drawing parallels to historical naval blockades, suggesting a potentially long-term engagement. Iran has responded with threats and the establishment of new \"restricted\" zones in the Gulf, indicating a belief in its strategic options and a willingness to exploit new fronts. The situation remains volatile, with regional lawmakers warning of a potential World War III scenario amidst escalating tensions.",
-    "top_themes": [
-      "US-Iran Conflict Escalation",
-      "Impact on Global Markets",
-      "US Midterm Elections Influence",
-      "Regional Instability",
-      "Naval Warfare and Blockades"
-    ],
-    "next_events": [
-      {
-        "title": "US Midterm Election Impact on War Strategy",
-        "description": "President Trump's repeated assertions that the Iran war will conclude after the US midterm elections are contradicted by his advisors, who foresee a prolonged conflict. The election results will be crucial in determining the immediate future of US policy towards Iran, potentially leading to a shift in military strategy or diplomatic rhetoric."
-      },
-      {
-        "title": "Escalation of Naval Warfare in Key Straits",
-        "description": "The ongoing 'tanker war' in the Strait of Hormuz and the Houthis' advances towards the Bab el-Mandeb Strait threaten global shipping and oil supplies. Analysts should monitor for increased attacks on commercial vessels, Iran's potential enforcement of a new 'restricted zone,' and any further Houthi control over these critical maritime choke points."
-      },
-      {
-        "title": "Potential US Strikes on Iranian Nuclear Sites",
-        "description": "President Trump has explicitly threatened to attack 'Pickaxe Mountain,' a site associated with Iran's nuclear program. Any such military action would represent a significant escalation of the conflict, potentially triggering widespread regional instability and a direct confrontation with severe consequences."
-      },
-      {
-        "title": "Global Economic and Inflationary Pressures",
-        "description": "The Iran war is a primary driver of Brent crude prices above $100 a barrel and is fueling fresh global inflation fears, prompting central banks like the ECB to hike interest rates. Watch for continued volatility in oil markets, further inflationary trends, and the broader economic impact on nations facing increased import costs and supply chain disruptions."
-      },
-      {
-        "title": "Direct Attacks on US Assets and Personnel",
-        "description": "Recent missile attacks on a US base in Jordan and close calls involving US warships indicate Iran's willingness to directly target American interests. Future developments will hinge on whether these direct confrontations escalate, potentially leading to retaliatory strikes or a broader engagement of US forces in the region."
-      },
-      {
-        "title": "Shifts in Regional Alliances and Diplomacy",
-        "description": "Iran's pursuit of a 'new world order' and statements from Gulf nations about diversifying security partnerships suggest evolving regional dynamics. Observe any new diplomatic initiatives, changes in existing alliances, or increased involvement of other international actors that could reshape the conflict's trajectory."
-      }
-    ]
-  },
-  "last_watch_success": true,
-  "last_watch_time": "2026-09-10T12:12:35.088647+00:00",
-  "relevant_news": [
-    {
-      "title": "Exclusive | Trump’s Top Advisers Confront Possibility That Iran War Lasts Through End of Term - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/trumps-top-advisers-confront-possibility-that-iran-war-lasts-through-end-of-term-5f4e23d7",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Sep 09, 2026 · 20:00 BRT",
-      "pub_date": "2026-09-09",
-      "pub_ts": 1788994800,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "wsj.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
     },
-    {
-      "title": "Trump says Iran war to end after US midterm vote, Houthis close in on key Strait, sources say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-end-after-us-midterm-elections-threatens-attack-pickaxe-2026-09-10/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 10, 2026 · 03:13 BRT",
-      "pub_date": "2026-09-10",
-      "pub_ts": 1789020780,
+    "https://www.reuters.com/world/middle-east/yemens-houthis-reach-strategic-island-mouth-vital-shipping-lane-2026-09-11/": {
       "summary": "",
       "tags": [
         "extracted",
         "reuters.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     },
-    {
-      "title": "Trump accuses Iran of meddling in midterms as wave of missiles targets U.S. base in Jordan - The Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 09, 2026 · 23:23 BRT",
-      "pub_date": "2026-09-09",
-      "pub_ts": 1789007027,
+    "https://www.bloomberg.com/news/videos/2026-09-11/efron-iran-war-solved-none-of-israel-s-problems-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.washingtonpost.com/opinions/2026/09/11/soviet-coup-iran-that-would-have-changed-cold-war/": {
       "summary": "",
       "tags": [
         "extracted",
         "washingtonpost.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     },
-    {
-      "title": "With Close Calls on U.S. Warships, Iran Shows New Appetite for Escalation - WSJ",
-      "url": "https://www.wsj.com/world/middle-east/with-close-calls-on-u-s-warships-iran-shows-new-appetite-for-escalation-e2758bbd",
-      "source": "WSJ",
-      "domain": "wsj.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
-      "published": "Sep 09, 2026 · 22:00 BRT",
-      "pub_date": "2026-09-09",
-      "pub_ts": 1789002000,
+    "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/": {
       "summary": "",
       "tags": [
         "extracted",
-        "wsj.com"
+        "reuters.com"
       ],
       "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     },
+    "https://www.reuters.com/video/watch/idRCV00GVT2/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    }
+  },
+  "last_digest_success": true,
+  "last_digest_time": "2026-09-11T11:09:57.240530+00:00",
+  "digest": {
+    "digest": "The ongoing Iran war continues to significantly impact global oil markets, with prices climbing and forecasts suggesting a prolonged conflict that may necessitate further reductions in oil demand. The International Energy Agency has warned that demand may need to fall more substantially if the war drags on. In parallel, Iran-backed Houthi rebels have made strategic advances in Yemen, capturing key areas along vital shipping lanes, including the Bab el-Mandeb Strait. This expansion of Houthi control is seen as increasing Iran's wartime leverage. In the United States, political discourse surrounding the war persists, with former President Trump expressing a lack of regret regarding past decisions related to Iran, even in light of potential impacts on elections. Diplomatic engagement is also noted, with Iran seeking closer ties with BRICS nations as it faces increasing isolation from the US. Regional infrastructure plans are being revised due to the conflict, with the UAE adjusting data center plans and Dubai considering underground fuel storage for its airport expansion. Emerging powers are continuing to join the BRICS bloc, indicating a shifting geopolitical landscape amidst the broader conflict.",
+    "top_themes": [
+      "Iran War Impact on Oil Markets",
+      "Houthi Advances in Yemen",
+      "US Political Stance on Iran War"
+    ],
+    "next_events": [
+      {
+        "title": "Escalation in Red Sea Shipping Lanes",
+        "description": "Houthi rebels, backed by Iran, have seized key locations like Dhubab and a strategic island at the Bab el-Mandeb Strait. Analysts should monitor for increased attacks on shipping, potential blockades, or international responses to secure this vital global trade route, as Iran's leverage grows through its proxies."
+      },
+      {
+        "title": "Sustained Global Oil Market Volatility",
+        "description": "The 'long Iran War' is already driving oil prices up and prompting warnings from the IEA about further demand falls. Watch for continued price fluctuations, potential supply disruptions from the Gulf region, and how major economies like China respond to rising fuel costs, indicating the war's broader economic ripple effects."
+      },
+      {
+        "title": "Accelerated Regional Infrastructure Security Measures",
+        "description": "The UAE is revising AI data center plans and Dubai is planning underground fuel tanks due to Iranian attacks and the ongoing conflict. Observe further defensive infrastructure projects, increased military readiness, and shifts in regional investment patterns as Gulf states fortify against perceived Iranian threats."
+      },
+      {
+        "title": "Iran's Deepening Diplomatic Ties with BRICS Nations",
+        "description": "As the 'US War' deepens Iran's isolation, Tehran is turning to the BRICS summit for diplomatic leverage. Analysts should watch for concrete economic or military agreements, increased trade, and coordinated political stances between Iran and BRICS members, which could challenge existing international sanctions and power dynamics."
+      },
+      {
+        "title": "Iran War Rhetoric in US Midterm Elections",
+        "description": "Former President Trump has linked the 'Iran War' to the upcoming midterm elections, making it a campaign issue. Monitor how the conflict is framed by political candidates, its influence on voter sentiment, and whether it leads to specific policy proposals or shifts in US foreign policy post-elections."
+      }
+    ]
+  },
+  "last_watch_success": true,
+  "last_watch_time": "2026-09-11T11:10:05.113811+00:00",
+  "relevant_news": [
     {
-      "title": "Oil Hits $100 a Barrel as Turmoil Intensifies in Middle East - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/09/business/brent-oil-100-barrel-iran-war.html",
+      "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 10, 2026 · 01:28 BRT",
+      "published": "Sep 10, 2026 · 16:56 BRT",
       "pub_date": "2026-09-10",
-      "pub_ts": 1789014480,
+      "pub_ts": 1789070206,
       "summary": "",
       "tags": [
         "extracted",
@@ -7576,31 +7544,105 @@
       "sentiment_success": false
     },
     {
-      "title": "Middle East on brink of World War III, Iranian lawmaker warns among escalating tensions - report - The Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-908122",
-      "source": "The Jerusalem Post",
-      "domain": "jpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=jpost.com",
-      "published": "Sep 10, 2026 · 07:37 BRT",
-      "pub_date": "2026-09-10",
-      "pub_ts": 1789036671,
-      "summary": "While Iran has flirted with reconciliation with the US at times, it has also sought to position itself alongside countries that want a new world order.",
+      "title": "Oil Climbs as Markets See a Long Iran War - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 11, 2026 · 05:11 BRT",
+      "pub_date": "2026-09-11",
+      "pub_ts": 1789114306,
+      "summary": "",
       "tags": [
-        "Iran",
-        "Russia",
-        "China",
-        "Ukraine",
-        "Ayatollah Ali Khamenei"
+        "extracted",
+        "bloomberg.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "IEA Warns Oil Demand May Have to Fall Further as Iran War Drags - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/iea-warns-oil-demand-may-have-to-fall-further-as-iran-war-drags",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 11, 2026 · 05:00 BRT",
+      "pub_date": "2026-09-11",
+      "pub_ts": 1789113600,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say - Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
+      "source": "Reuters",
+      "domain": "reuters.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
+      "published": "Sep 11, 2026 · 06:49 BRT",
+      "pub_date": "2026-09-11",
+      "pub_ts": 1789120156,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran, US Brace for Long War With Neither Side Ceding Ground - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/iran-and-us-set-for-extended-war-with-neither-side-ceding-ground",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 10, 2026 · 11:00 BRT",
+      "pub_date": "2026-09-10",
+      "pub_ts": 1789048811,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/09/oil-price-spike-iran-attacks-intrudes-gops-midterm-convention/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 10, 2026 · 08:16 BRT",
+      "pub_date": "2026-09-10",
+      "pub_ts": 1789038996,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
       "sentiment_success": false
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
-  "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T23:02:06.700161+00:00",
+  "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
+  "last_generated_date": "2026-09-11",
+  "last_generated_time": "2026-09-11T08:02:35.798370+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

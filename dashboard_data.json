@@ -7294,6 +7294,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.washingtonpost.com/video/politics/trump-predicts-war-with-iran-will-end-immediately-after-us-midterms/2026/09/10/b00248af-fc39-4ccb-b54f-f6c5c7cd6932_video.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7463,6 +7473,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil Climbs as Markets See a Long Iran War - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkEyUGtlSV9HcnppUFB3TWI4UVFZNlVFN1EyVFdyUFMzUE1RdnR5aUdPVmJEMW1jVm9FMzY4SEFVN1NFYjFzWE9SaTlIcGpkSnFDdFFWV0NwMEtuNG5oRXRzUU1sOFdxTDNCUHkwNzZTRWhEYVFSRXBhUU51dVd0X2hjNS1kMldvU3lKSGFqSDFuMDJBMGdjY1ZKLW5ia1UyVWxUT2JPUnFhT29JYjh5M0c3TElwbGM?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 23:11 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789092703,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Prices Surge as Stocks and Bonds Wobble - The New York Times",
           "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mVmNITlFwV0FlUC0xOEItRThDaHhmYkVGOGMyUTRaalNEc1lHQXRDaGx6SUF6dUd4NVd6NXdSOExaN1ZGTWdkWEEwZDhTYUFmVFY2MW1LV2I3LTJWM1VRaVVFZkFtV2s1Q0VkWDZjdmJGWWlKM3Y2ZHZuZHVSQQ?oc=5",

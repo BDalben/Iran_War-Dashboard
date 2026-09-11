@@ -7620,6 +7620,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.washingtonpost.com/world/2026/09/11/iran-denounces-us-israeli-oppression-houthis-advance-yemen/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.timesofisrael.com/defending-iran-war-trump-says-us-will-never-forget-9-11-thats-why-we-fight-today/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "timesofisrael.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -7775,12 +7805,26 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
   "last_generated_date": "2026-09-11",
-  "last_generated_time": "2026-09-11T16:01:45.374166+00:00",
+  "last_generated_time": "2026-09-11T17:01:44.089194+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "Oil tanker rates hit record highs following Iran, US shipping attacks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5mMEFxdUdWVkQ3Q3J0WlJnN1J1Ti01OEZiMjlKMjRPT0JMRnF6OTJrbjA1TFJ4dzVveUoxX0NsbUNyMUtYX040QzNOSWlfcWhiMEc5WWZVUEtGS1VaRDF2b3NCTzNPLXRRN2JYSzZXYURPZTdWNDA4c1hoRW1mZ3B1SGFiXzltQldPUTlKSERIeXpIQk5RaDU3Z2otUXZXV2NZMGhCanNFcWJLZ3B4aXk4X0xTS0FsV0Vteg?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 11:37 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789137453,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "IEA Warns Oil Demand May Have to Fall Further as Iran War Drags - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXlZZWZTY2V3NmZDbDRwSkVOQnpSMk1SenVucThPUmVvSkpHOHdUTElWQlFHR3g3Nk9ZdDNRdmJpT1VNa3kxTG5GdTM2aDg4cnZyWWxkeVpBMFZyNTVJMWRkVUF3UUFlMWpyYUpKT20tV1VMWVhyU21pWU9jRk5yN3VWOS14N2dfYkJBNW5QR3lXSnl5Q0dsa1R0MmNSb1UtMzhfRHVQYjJLOTVHSFdnUDY4Yl8?oc=5",

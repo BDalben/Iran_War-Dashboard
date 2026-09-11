@@ -7304,6 +7304,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-11/iran-and-us-brace-for-long-war-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/video/watch/idRW192611092026RP1/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,

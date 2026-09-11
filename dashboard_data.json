@@ -7143,7 +7143,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.nytimes.com/2026/09/10/climate/global-coal-demand-iran-war.html": {
       "summary": "",
@@ -7273,7 +7273,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.reuters.com/world/trump-says-he-does-not-regret-iran-war-despite-impact-it-may-have-midterm-2026-09-11/": {
       "summary": "",
@@ -10670,6 +10670,20 @@
     {
       "theme": "Refined Petroleum Products",
       "articles": [
+        {
+          "title": "US average diesel price passes $6 a gallon for the first time, GasBuddy says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS3FTSU5adzBIaU92QmVKNkt0UUVCV1FtbTZiN0Vqd0tseU1QeUxPal9NU1NLVVE4VnJDS1NkQUR6Y1NBaFp6RGVLSWg3Y0RjdFlHRnMzdFVFM0F6R2ZCSGdNZ0pLcExYYXh0dHdZRGl2Wkkwb2l4WWFiYUtxU2FnRjJ2OUh0QXlPcXlGcFhDRUEtdzNRRnZ4eS1hV3dRZlRHMGxhU09lZWZJU3RkX0Npei1xLWpkRFU?oc=5",
+          "source": "Reuters",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 10, 2026 · 20:38 BRT",
+          "pub_date": "2026-09-10",
+          "pub_ts": 1789083517,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Energy Department raises 2027 diesel price outlook by 33 cents amid Iran war - axios.com",
           "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkxJRG9VdDhuaHQtUWs3eGg3YXotNW5RZS1WSEpxUjhBejJEdk1mTUYtaFAtTEY2Q2t5MFcyQkI5ZGpDb3ZSQUdNWFgxcDBReWIweURvTUZYdDBwZHlFVlE0ZUN0czlDNUdzaEx5aWZvYk9XbC1ET1h5R09ONjVOZjN2T0R0YWhBN1E?oc=5",

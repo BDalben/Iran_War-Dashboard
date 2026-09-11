@@ -7540,6 +7540,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/trump-marks-9-11-anniversary-at-pentagon-with-iran-war-defense": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.wsj.com/video/trump-on-911-and-iran-war-that-why-we-fight-today/1DA03B52-8DC9-400C-93D9-4D40D5A23E45": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
+    },
+    "https://www.reuters.com/business/energy/oil-tanker-rates-hit-record-highs-following-iran-us-shipping-attacks-2026-09-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -7695,7 +7725,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
   "last_generated_date": "2026-09-11",
-  "last_generated_time": "2026-09-11T11:01:54.576751+00:00",
+  "last_generated_time": "2026-09-11T12:01:47.990414+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

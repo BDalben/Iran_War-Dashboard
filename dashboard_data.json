@@ -7274,6 +7274,26 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-10"
+    },
+    "https://www.reuters.com/world/trump-says-he-does-not-regret-iran-war-despite-impact-it-may-have-midterm-2026-09-11/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
+    },
+    "https://www.nytimes.com/2026/09/10/business/oil-middle-east-iran-war.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-10"
     }
   },
   "last_digest_success": true,
@@ -7437,7 +7457,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-10T12:12:35.601814+00:00",
   "last_generated_date": "2026-09-10",
-  "last_generated_time": "2026-09-10T22:01:51.379832+00:00",
+  "last_generated_time": "2026-09-10T23:02:06.700161+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

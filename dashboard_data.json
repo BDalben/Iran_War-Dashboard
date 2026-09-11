@@ -7203,7 +7203,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-11"
+      "pub_date": "2026-09-10"
     },
     "https://www.reuters.com/world/middle-east/us-slaps-new-sanctions-networks-aiding-irans-proxies-middle-east-2026-09-10/": {
       "summary": "",
@@ -7293,7 +7293,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.washingtonpost.com/video/politics/trump-predicts-war-with-iran-will-end-immediately-after-us-midterms/2026/09/10/b00248af-fc39-4ccb-b54f-f6c5c7cd6932_video.html": {
       "summary": "",
@@ -7530,6 +7530,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.axios.com/2026/09/11/cpi-august-inflation-trump": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "axios.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -7685,7 +7695,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
   "last_generated_date": "2026-09-11",
-  "last_generated_time": "2026-09-11T10:01:55.300429+00:00",
+  "last_generated_time": "2026-09-11T11:01:54.576751+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

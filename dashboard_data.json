@@ -7203,7 +7203,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.reuters.com/world/middle-east/us-slaps-new-sanctions-networks-aiding-irans-proxies-middle-east-2026-09-10/": {
       "summary": "",
@@ -7427,6 +7427,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-11/iran-turns-to-brics-summit-as-us-war-deepens-its-isolation": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -7596,6 +7606,20 @@
     {
       "theme": "Oil",
       "articles": [
+        {
+          "title": "IEA Warns Oil Demand May Have to Fall Further as Iran War Drags - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTXlZZWZTY2V3NmZDbDRwSkVOQnpSMk1SenVucThPUmVvSkpHOHdUTElWQlFHR3g3Nk9ZdDNRdmJpT1VNa3kxTG5GdTM2aDg4cnZyWWxkeVpBMFZyNTVJMWRkVUF3UUFlMWpyYUpKT20tV1VMWVhyU21pWU9jRk5yN3VWOS14N2dfYkJBNW5QR3lXSnl5Q0dsa1R0MmNSb1UtMzhfRHVQYjJLOTVHSFdnUDY4Yl8?oc=5",
+          "source": "Bloomberg.com",
+          "domain": "news.google.com",
+          "favicon": "https://www.google.com/s2/favicons?sz=32&domain=news.google.com",
+          "published": "Sep 11, 2026 · 05:00 BRT",
+          "pub_date": "2026-09-11",
+          "pub_ts": 1789113600,
+          "summary": "",
+          "tags": [],
+          "sentiment": "neutral",
+          "_rank": 0
+        },
         {
           "title": "Oil Climbs as Markets See a Long Iran War - Bloomberg.com",
           "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkEyUGtlSV9HcnppUFB3TWI4UVFZNlVFN1EyVFdyUFMzUE1RdnR5aUdPVmJEMW1jVm9FMzY4SEFVN1NFYjFzWE9SaTlIcGpkSnFDdFFWV0NwMEtuNG5oRXRzUU1sOFdxTDNCUHkwNzZTRWhEYVFSRXBhUU51dVd0X2hjNS1kMldvU3lKSGFqSDFuMDJBMGdjY1ZKLW5ia1UyVWxUT2JPUnFhT29JYjh5M0c3TElwbGM?oc=5",

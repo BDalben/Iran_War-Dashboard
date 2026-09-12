@@ -7539,7 +7539,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-11"
+      "pub_date": "2026-09-12"
     },
     "https://www.bloomberg.com/news/articles/2026-09-11/trump-marks-9-11-anniversary-at-pentagon-with-iran-war-defense": {
       "summary": "",
@@ -7743,6 +7743,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-12"
+    },
+    "https://www.reuters.com/world/middle-east/houthi-advance-yemen-puts-us-new-bind-2026-09-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
     }
   },
   "last_digest_success": true,
@@ -7894,7 +7904,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-12T11:08:08.768951+00:00",
   "last_generated_date": "2026-09-12",
-  "last_generated_time": "2026-09-12T11:01:38.088899+00:00",
+  "last_generated_time": "2026-09-12T12:01:47.976808+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

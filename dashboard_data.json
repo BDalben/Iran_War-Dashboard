@@ -7629,7 +7629,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-11"
+      "pub_date": "2026-09-12"
     },
     "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html": {
       "summary": "",
@@ -7680,6 +7680,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
     }
   },
   "last_digest_success": true,

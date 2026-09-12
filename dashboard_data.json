@@ -7753,6 +7753,36 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-12"
+    },
+    "https://www.nytimes.com/2026/09/12/world/middleeast/iran-escalation-leverage-houthis-strait.html": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "nytimes.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
+    },
+    "https://www.washingtonpost.com/world/2026/09/12/with-no-clear-path-out-us-war-iran-messy-mideast-gets-messier/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
+    },
+    "https://www.reuters.com/business/aerospace-defense/brics-agrees-joint-declaration-before-new-delhi-summit-sources-say-2026-09-12/": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "reuters.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
     }
   },
   "last_digest_success": true,
@@ -7904,7 +7934,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-12T11:08:08.768951+00:00",
   "last_generated_date": "2026-09-12",
-  "last_generated_time": "2026-09-12T12:01:47.976808+00:00",
+  "last_generated_time": "2026-09-12T13:01:55.492133+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

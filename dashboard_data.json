@@ -7146,7 +7146,7 @@
       "pub_date": "2026-09-11"
     },
     "https://www.nytimes.com/2026/09/10/climate/global-coal-demand-iran-war.html": {
-      "summary": "",
+      "summary": "Five years after virtually every world leader agreed to “phase down” the burning of coal for climate reasons, the fuel is more widely used than ever.",
       "tags": [
         "extracted",
         "nytimes.com"
@@ -7203,7 +7203,7 @@
       ],
       "sentiment": "neutral",
       "sentiment_success": false,
-      "pub_date": "2026-09-10"
+      "pub_date": "2026-09-11"
     },
     "https://www.reuters.com/world/middle-east/us-slaps-new-sanctions-networks-aiding-irans-proxies-middle-east-2026-09-10/": {
       "summary": "",
@@ -7650,6 +7650,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-11"
+    },
+    "https://www.bloomberg.com/news/videos/2026-09-11/trump-marks-9-11-anniversary-at-the-pentagon-remarks-video": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-11"
     }
   },
   "last_digest_success": true,
@@ -7805,7 +7815,7 @@
   "last_relevant_success": true,
   "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
   "last_generated_date": "2026-09-11",
-  "last_generated_time": "2026-09-11T21:01:58.339654+00:00",
+  "last_generated_time": "2026-09-11T22:01:42.249596+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {

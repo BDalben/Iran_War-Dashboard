@@ -7690,6 +7690,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-12"
+    },
+    "https://www.bloomberg.com/news/articles/2026-09-12/xi-takes-center-stage-at-modi-s-brics-summit-as-iran-war-deepens": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
     }
   },
   "last_digest_success": true,

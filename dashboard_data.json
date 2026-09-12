@@ -7700,6 +7700,16 @@
       "sentiment": "neutral",
       "sentiment_success": false,
       "pub_date": "2026-09-12"
+    },
+    "https://www.bloomberg.com/news/features/2026-09-12/war-in-the-middle-east-crisis-is-making-clothes-more-expensive": {
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "sentiment_success": false,
+      "pub_date": "2026-09-12"
     }
   },
   "last_digest_success": true,

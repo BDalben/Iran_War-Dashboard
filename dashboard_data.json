@@ -7713,49 +7713,102 @@
     }
   },
   "last_digest_success": true,
-  "last_digest_time": "2026-09-11T11:09:57.240530+00:00",
+  "last_digest_time": "2026-09-12T11:08:00.717225+00:00",
   "digest": {
-    "digest": "The ongoing Iran war continues to significantly impact global oil markets, with prices climbing and forecasts suggesting a prolonged conflict that may necessitate further reductions in oil demand. The International Energy Agency has warned that demand may need to fall more substantially if the war drags on. In parallel, Iran-backed Houthi rebels have made strategic advances in Yemen, capturing key areas along vital shipping lanes, including the Bab el-Mandeb Strait. This expansion of Houthi control is seen as increasing Iran's wartime leverage. In the United States, political discourse surrounding the war persists, with former President Trump expressing a lack of regret regarding past decisions related to Iran, even in light of potential impacts on elections. Diplomatic engagement is also noted, with Iran seeking closer ties with BRICS nations as it faces increasing isolation from the US. Regional infrastructure plans are being revised due to the conflict, with the UAE adjusting data center plans and Dubai considering underground fuel storage for its airport expansion. Emerging powers are continuing to join the BRICS bloc, indicating a shifting geopolitical landscape amidst the broader conflict.",
+    "digest": "The ongoing conflict involving Iran has significantly impacted global energy markets, with attacks on oil routes and threats to key waterways leading to rising oil prices and concerns about inflation. Specifically, Houthi actions in the Red Sea have led to the shutdown of a Saudi pipeline and the effective control of a vital chokepoint, further jeopardizing Gulf oil supplies. In the geopolitical arena, China's President Xi Jinping has taken a prominent role at the BRICS summit, where Iran's participation alongside rising oil prices presents a contrasting scenario to the US's diplomatic position. The US has linked Chinese satellite imagery to an Iranian strike that resulted in the deaths of three American troops, highlighting a complex international dimension to the conflict. Domestically, former President Trump has repeatedly invoked the legacy of 9/11 in his defense of the Iran war, framing current military actions as a direct consequence of those past attacks. These developments underscore the multifaceted nature of the Iran conflict, influencing international relations, economic stability, and domestic political discourse.",
     "top_themes": [
-      "Iran War Impact on Oil Markets",
-      "Houthi Advances in Yemen",
-      "US Political Stance on Iran War"
+      "Iran War Impact on Energy Markets",
+      "Geopolitical Tensions and Alliances",
+      "US Political Discourse on Iran"
     ],
     "next_events": [
       {
-        "title": "Escalation in Red Sea Shipping Lanes",
-        "description": "Houthi rebels, backed by Iran, have seized key locations like Dhubab and a strategic island at the Bab el-Mandeb Strait. Analysts should monitor for increased attacks on shipping, potential blockades, or international responses to secure this vital global trade route, as Iran's leverage grows through its proxies."
+        "title": "US Political Rhetoric and Potential Policy Shifts on Iran",
+        "description": "Former President Trump's repeated defense of an 'Iran War' and tying it to 9/11 signals a specific political narrative. Analysts should monitor how this rhetoric evolves and if it translates into concrete policy shifts or justifications for military actions, potentially shaping future US engagement in the region."
       },
       {
-        "title": "Sustained Global Oil Market Volatility",
-        "description": "The 'long Iran War' is already driving oil prices up and prompting warnings from the IEA about further demand falls. Watch for continued price fluctuations, potential supply disruptions from the Gulf region, and how major economies like China respond to rising fuel costs, indicating the war's broader economic ripple effects."
+        "title": "Escalation of Houthi Control and Threats to Global Shipping",
+        "description": "The Houthis' effective control of a key Red Sea chokepoint and threats to Saudi oil infrastructure represent a critical escalation. Watch for further Houthi attacks, international naval responses to secure vital shipping lanes, and the immediate impact on global oil prices and supply chain stability."
       },
       {
-        "title": "Accelerated Regional Infrastructure Security Measures",
-        "description": "The UAE is revising AI data center plans and Dubai is planning underground fuel tanks due to Iranian attacks and the ongoing conflict. Observe further defensive infrastructure projects, increased military readiness, and shifts in regional investment patterns as Gulf states fortify against perceived Iranian threats."
+        "title": "Global Economic Fallout: Oil Prices and Inflationary Pressures",
+        "description": "The ongoing situation is directly contributing to rising oil prices and persistent inflation globally. Analysts must track energy market volatility, its ripple effects on consumer prices, and how central banks respond to mitigate the economic fallout from prolonged energy disruptions."
       },
       {
-        "title": "Iran's Deepening Diplomatic Ties with BRICS Nations",
-        "description": "As the 'US War' deepens Iran's isolation, Tehran is turning to the BRICS summit for diplomatic leverage. Analysts should watch for concrete economic or military agreements, increased trade, and coordinated political stances between Iran and BRICS members, which could challenge existing international sanctions and power dynamics."
-      },
-      {
-        "title": "Iran War Rhetoric in US Midterm Elections",
-        "description": "Former President Trump has linked the 'Iran War' to the upcoming midterm elections, making it a campaign issue. Monitor how the conflict is framed by political candidates, its influence on voter sentiment, and whether it leads to specific policy proposals or shifts in US foreign policy post-elections."
+        "title": "Shifting Geopolitical Alliances and External Support for Iran",
+        "description": "Iran's presence at the BRICS summit and the reported use of Chinese satellite imagery in an Iranian strike highlight evolving geopolitical alignments. Monitor for increased diplomatic and material support for Iran from non-Western powers, which could significantly alter the conflict's trajectory and international response efforts."
       }
     ]
   },
   "last_watch_success": true,
-  "last_watch_time": "2026-09-11T11:10:05.113811+00:00",
+  "last_watch_time": "2026-09-12T11:08:08.155395+00:00",
   "relevant_news": [
     {
-      "title": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War - The New York Times",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
+      "title": "Xi Takes Center Stage at Modi’s BRICS Summit as Iran War Deepens - Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/xi-takes-center-stage-at-modi-s-brics-summit-as-iran-war-deepens",
+      "source": "Bloomberg.com",
+      "domain": "bloomberg.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
+      "published": "Sep 12, 2026 · 07:05 BRT",
+      "pub_date": "2026-09-12",
+      "pub_ts": 1789207506,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "bloomberg.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Oil routes in peril as attacks shut Saudi pipeline and Houthis threaten key waterway - The Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/09/11/iran-denounces-us-israeli-oppression-houthis-advance-yemen/",
+      "source": "The Washington Post",
+      "domain": "washingtonpost.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
+      "published": "Sep 12, 2026 · 01:06 BRT",
+      "pub_date": "2026-09-12",
+      "pub_ts": 1789185960,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "washingtonpost.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "Iran-Backed Houthis Take Effective Control of Key Red Sea Chokepoint - WSJ",
+      "url": "https://www.wsj.com/world/middle-east/iran-backed-houthis-take-effective-control-of-bab-al-mandeb-chokepoint-0c6f4592",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 11, 2026 · 16:18 BRT",
+      "pub_date": "2026-09-11",
+      "pub_ts": 1789154317,
+      "summary": "",
+      "tags": [
+        "extracted",
+        "wsj.com"
+      ],
+      "sentiment": "neutral",
+      "_rank": 0,
+      "full_text": "",
+      "sentiment_success": false
+    },
+    {
+      "title": "As Oil Prices Rise, BRICS Leaders Have What U.S. Doesn’t: Iran at the Table - The New York Times",
+      "url": "https://www.nytimes.com/2026/09/12/world/asia/brics-summit-china-india-russia-iran.html",
       "source": "The New York Times",
       "domain": "nytimes.com",
       "favicon": "https://www.google.com/s2/favicons?sz=32&domain=nytimes.com",
-      "published": "Sep 10, 2026 · 16:56 BRT",
-      "pub_date": "2026-09-10",
-      "pub_ts": 1789070206,
+      "published": "Sep 12, 2026 · 03:30 BRT",
+      "pub_date": "2026-09-12",
+      "pub_ts": 1789194614,
       "summary": "",
       "tags": [
         "extracted",
@@ -7767,18 +7820,18 @@
       "sentiment_success": false
     },
     {
-      "title": "Oil Climbs as Markets See a Long Iran War - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-09-10/oil-climbs-as-markets-see-a-long-war-evening-briefing-americas",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Sep 11, 2026 · 05:11 BRT",
+      "title": "Exclusive | U.S. Links Chinese Satellite Imagery to Iranian Strike That Killed Three Troops - WSJ",
+      "url": "https://www.wsj.com/world/u-s-links-chinese-satellite-imagery-to-iranian-strike-that-killed-three-troops-ca0b4be3",
+      "source": "WSJ",
+      "domain": "wsj.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=wsj.com",
+      "published": "Sep 11, 2026 · 22:57 BRT",
       "pub_date": "2026-09-11",
-      "pub_ts": 1789114306,
+      "pub_ts": 1789178220,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
+        "wsj.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -7786,75 +7839,18 @@
       "sentiment_success": false
     },
     {
-      "title": "IEA Warns Oil Demand May Have to Fall Further as Iran War Drags - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-11/iea-warns-oil-demand-may-have-to-fall-further-as-iran-war-drags",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Sep 11, 2026 · 05:00 BRT",
+      "title": "Inflation stays hot in August as Iran war drives energy costs higher - Axios",
+      "url": "https://www.axios.com/2026/09/11/cpi-august-inflation-trump",
+      "source": "Axios",
+      "domain": "axios.com",
+      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=axios.com",
+      "published": "Sep 11, 2026 · 11:19 BRT",
       "pub_date": "2026-09-11",
-      "pub_ts": 1789113600,
+      "pub_ts": 1789136372,
       "summary": "",
       "tags": [
         "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "EXCLUSIVE: UAE revises AI data center plan after Iranian attacks, sources say - Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-2026-09-11/",
-      "source": "Reuters",
-      "domain": "reuters.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=reuters.com",
-      "published": "Sep 11, 2026 · 06:49 BRT",
-      "pub_date": "2026-09-11",
-      "pub_ts": 1789120156,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "reuters.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Iran, US Brace for Long War With Neither Side Ceding Ground - Bloomberg.com",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/iran-and-us-set-for-extended-war-with-neither-side-ceding-ground",
-      "source": "Bloomberg.com",
-      "domain": "bloomberg.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=bloomberg.com",
-      "published": "Sep 10, 2026 · 11:00 BRT",
-      "pub_date": "2026-09-10",
-      "pub_ts": 1789048811,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "bloomberg.com"
-      ],
-      "sentiment": "neutral",
-      "_rank": 0,
-      "full_text": "",
-      "sentiment_success": false
-    },
-    {
-      "title": "Trump makes case for Iran war, promises $5,000 payouts if GOP wins midterms - The Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/09/oil-price-spike-iran-attacks-intrudes-gops-midterm-convention/",
-      "source": "The Washington Post",
-      "domain": "washingtonpost.com",
-      "favicon": "https://www.google.com/s2/favicons?sz=32&domain=washingtonpost.com",
-      "published": "Sep 10, 2026 · 08:16 BRT",
-      "pub_date": "2026-09-10",
-      "pub_ts": 1789038996,
-      "summary": "",
-      "tags": [
-        "extracted",
-        "washingtonpost.com"
+        "axios.com"
       ],
       "sentiment": "neutral",
       "_rank": 0,
@@ -7863,9 +7859,9 @@
     }
   ],
   "last_relevant_success": true,
-  "last_relevant_time": "2026-09-11T11:10:12.246567+00:00",
-  "last_generated_date": "2026-09-11",
-  "last_generated_time": "2026-09-11T23:02:00.488507+00:00",
+  "last_relevant_time": "2026-09-12T11:08:08.768951+00:00",
+  "last_generated_date": "2026-09-12",
+  "last_generated_time": "2026-09-12T08:01:37.199793+00:00",
   "last_run_success": true,
   "themed_news_cache": [
     {
